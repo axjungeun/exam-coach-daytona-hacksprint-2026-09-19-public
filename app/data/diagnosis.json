@@ -1,0 +1,2114 @@
+{
+  "metadata": {
+    "contentMode": "synthetic_demo",
+    "rightsStatus": "independently_authored_templates",
+    "generatedDate": "2026-09-19",
+    "notice": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다.",
+    "distinctTemplateCount": 54,
+    "containsPersonalRecords": false,
+    "containsOfficialExamQuestions": false,
+    "containsTextbookExcerpts": false,
+    "title": "합성 데모 선택 기록",
+    "sourceAnswerWorkbook": "없음: 프로그램 생성",
+    "sourceKeywordMap": "app/data/public-practice-questions.json",
+    "originalFilesModified": false
+  },
+  "summary": {
+    "attemptScores": {
+      "first": 32,
+      "second": 32,
+      "third": 0
+    },
+    "statusCounts": {
+      "고정취약": 0,
+      "불안정": 8,
+      "미학습": 0,
+      "미복습": 0,
+      "개선": 8,
+      "1회독 정답": 0,
+      "안정": 24
+    },
+    "highPriorityCount": 8,
+    "reviewQueueCount": 16
+  },
+  "rules": {
+    "statusRules": [
+      {
+        "status": "고정취약",
+        "score": 100,
+        "nextAction": "합성 예시의 정답 선택지와 비교하기"
+      },
+      {
+        "status": "불안정",
+        "score": 90,
+        "nextAction": "합성 예시의 선택 이유를 다시 확인하기"
+      },
+      {
+        "status": "미학습",
+        "score": 85,
+        "nextAction": "연습문항 선택지를 읽어보기"
+      },
+      {
+        "status": "미복습",
+        "score": 80,
+        "nextAction": "연습문항을 다시 풀어보기"
+      },
+      {
+        "status": "개선",
+        "score": 50,
+        "nextAction": "합성 기록에서 바뀐 선택지를 비교하기"
+      },
+      {
+        "status": "1회독 정답",
+        "score": 30,
+        "nextAction": "연습문항을 한 번 더 확인하기"
+      },
+      {
+        "status": "안정",
+        "score": 10,
+        "nextAction": "다른 연습문항 살펴보기"
+      }
+    ],
+    "numericWeights": [
+      {
+        "numericType": "없음",
+        "weight": 0
+      }
+    ],
+    "priorityRules": [
+      {
+        "priority": "높음",
+        "minimumScore": 85
+      },
+      {
+        "priority": "보통",
+        "minimumScore": 50
+      },
+      {
+        "priority": "낮음",
+        "minimumScore": 0
+      }
+    ],
+    "wHandling": "합성 예시는 선택 번호를 명시함"
+  },
+  "diagnostics": [
+    {
+      "id": "48-THEORY-01",
+      "round": 48,
+      "questionNo": 1,
+      "correct": 2,
+      "attempts": [
+        2,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 비례·비비례재보험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-02",
+      "round": 48,
+      "questionNo": 2,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 확률변수의 기대값",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-03",
+      "round": 48,
+      "questionNo": 3,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 열거위험담보·포괄위험담보",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-04",
+      "round": 48,
+      "questionNo": 4,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 실제현금가치",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-05",
+      "round": 48,
+      "questionNo": 5,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "위험의 기초",
+      "concept": "순수위험·투기위험",
+      "keywords": [
+        "순수위험",
+        "투기위험",
+        "손실 가능성"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 순수위험·투기위험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 순수위험과 투기위험을 구분한 설명으로 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-06",
+      "round": 48,
+      "questionNo": 6,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "위험의 기초",
+      "concept": "손인·위태",
+      "keywords": [
+        "손인",
+        "물리적 위태",
+        "화재"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 손인·위태",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-07",
+      "round": 48,
+      "questionNo": 7,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "위험의 기초",
+      "concept": "도덕적 위태",
+      "keywords": [
+        "도덕적 위태",
+        "고의",
+        "보험사기"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 도덕적 위태",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-08",
+      "round": 48,
+      "questionNo": 8,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험의 기본원리",
+      "concept": "대수의 법칙",
+      "keywords": [
+        "대수의 법칙",
+        "위험집단",
+        "예측 가능성"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 대수의 법칙",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-09",
+      "round": 48,
+      "questionNo": 9,
+      "correct": 3,
+      "attempts": [
+        3,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "리스크 관리",
+      "concept": "위험재무기법",
+      "keywords": [
+        "위험재무",
+        "보험",
+        "위험전가"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 위험재무기법",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-10",
+      "round": 48,
+      "questionNo": 10,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "언더라이팅",
+      "concept": "역선택",
+      "keywords": [
+        "역선택",
+        "위험집단",
+        "정보 비대칭"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 역선택",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 역선택이 보험집단에 미칠 수 있는 영향은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-11",
+      "round": 48,
+      "questionNo": 11,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "언더라이팅",
+      "concept": "언더라이팅·위험선택",
+      "keywords": [
+        "언더라이팅",
+        "위험선택",
+        "인수조건"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 언더라이팅·위험선택",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 언더라이팅의 핵심 목적은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-12",
+      "round": 48,
+      "questionNo": 12,
+      "correct": 3,
+      "attempts": [
+        4,
+        3,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "보험회계",
+      "concept": "손해율",
+      "keywords": [
+        "손해율",
+        "발생손해액",
+        "경과보험료"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 손해율",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-13",
+      "round": 48,
+      "questionNo": 13,
+      "correct": 3,
+      "attempts": [
+        3,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험경영",
+      "concept": "합산비율",
+      "keywords": [
+        "합산비율",
+        "손해율",
+        "사업비율"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 합산비율",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-14",
+      "round": 48,
+      "questionNo": 14,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험요율·통계",
+      "concept": "기대손해액",
+      "keywords": [
+        "사고빈도",
+        "평균손해액",
+        "순보험료"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 기대손해액",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-15",
+      "round": 48,
+      "questionNo": 15,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재물보험",
+      "concept": "공제조항·자기부담금",
+      "keywords": [
+        "자기부담금",
+        "소액 손해",
+        "위험 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 공제조항·자기부담금",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 자기부담금을 높일 때 일반적으로 기대되는 효과는?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-16",
+      "round": 48,
+      "questionNo": 16,
+      "correct": 2,
+      "attempts": [
+        2,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "보험요율·통계",
+      "concept": "보험요율 산정원칙",
+      "keywords": [
+        "보험요율",
+        "공평성",
+        "위험 반영"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 보험요율 산정원칙",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-17",
+      "round": 48,
+      "questionNo": 17,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "재보험",
+      "concept": "비례재보험특약",
+      "keywords": [
+        "비례재보험",
+        "출재비율",
+        "재보험자 부담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 비례재보험특약",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-18",
+      "round": 48,
+      "questionNo": 18,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재보험",
+      "concept": "초과손해액재보험특약",
+      "keywords": [
+        "비비례재보험",
+        "보유액",
+        "재보험 한도"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 초과손해액재보험특약",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-19",
+      "round": 48,
+      "questionNo": 19,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 비례·비비례재보험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-20",
+      "round": 48,
+      "questionNo": 20,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 확률변수의 기대값",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-21",
+      "round": 48,
+      "questionNo": 21,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 열거위험담보·포괄위험담보",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-22",
+      "round": 48,
+      "questionNo": 22,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 실제현금가치",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-23",
+      "round": 48,
+      "questionNo": 23,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "위험의 기초",
+      "concept": "순수위험·투기위험",
+      "keywords": [
+        "순수위험",
+        "투기위험",
+        "손실 가능성"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 순수위험·투기위험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 순수위험과 투기위험을 구분한 설명으로 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-24",
+      "round": 48,
+      "questionNo": 24,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "위험의 기초",
+      "concept": "손인·위태",
+      "keywords": [
+        "손인",
+        "물리적 위태",
+        "화재"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 손인·위태",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-25",
+      "round": 48,
+      "questionNo": 25,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "위험의 기초",
+      "concept": "도덕적 위태",
+      "keywords": [
+        "도덕적 위태",
+        "고의",
+        "보험사기"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 도덕적 위태",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-26",
+      "round": 48,
+      "questionNo": 26,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "보험의 기본원리",
+      "concept": "대수의 법칙",
+      "keywords": [
+        "대수의 법칙",
+        "위험집단",
+        "예측 가능성"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 대수의 법칙",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-27",
+      "round": 48,
+      "questionNo": 27,
+      "correct": 3,
+      "attempts": [
+        4,
+        3,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "리스크 관리",
+      "concept": "위험재무기법",
+      "keywords": [
+        "위험재무",
+        "보험",
+        "위험전가"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 위험재무기법",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-28",
+      "round": 48,
+      "questionNo": 28,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "언더라이팅",
+      "concept": "역선택",
+      "keywords": [
+        "역선택",
+        "위험집단",
+        "정보 비대칭"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 역선택",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 역선택이 보험집단에 미칠 수 있는 영향은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-29",
+      "round": 48,
+      "questionNo": 29,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "언더라이팅",
+      "concept": "언더라이팅·위험선택",
+      "keywords": [
+        "언더라이팅",
+        "위험선택",
+        "인수조건"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 언더라이팅·위험선택",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 언더라이팅의 핵심 목적은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-30",
+      "round": 48,
+      "questionNo": 30,
+      "correct": 3,
+      "attempts": [
+        3,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험회계",
+      "concept": "손해율",
+      "keywords": [
+        "손해율",
+        "발생손해액",
+        "경과보험료"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 손해율",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-31",
+      "round": 48,
+      "questionNo": 31,
+      "correct": 3,
+      "attempts": [
+        3,
+        4,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "보험경영",
+      "concept": "합산비율",
+      "keywords": [
+        "합산비율",
+        "손해율",
+        "사업비율"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 합산비율",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-32",
+      "round": 48,
+      "questionNo": 32,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "보험요율·통계",
+      "concept": "기대손해액",
+      "keywords": [
+        "사고빈도",
+        "평균손해액",
+        "순보험료"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 기대손해액",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-33",
+      "round": 48,
+      "questionNo": 33,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재물보험",
+      "concept": "공제조항·자기부담금",
+      "keywords": [
+        "자기부담금",
+        "소액 손해",
+        "위험 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 공제조항·자기부담금",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 자기부담금을 높일 때 일반적으로 기대되는 효과는?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-34",
+      "round": 48,
+      "questionNo": 34,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험요율·통계",
+      "concept": "보험요율 산정원칙",
+      "keywords": [
+        "보험요율",
+        "공평성",
+        "위험 반영"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 보험요율 산정원칙",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-35",
+      "round": 48,
+      "questionNo": 35,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재보험",
+      "concept": "비례재보험특약",
+      "keywords": [
+        "비례재보험",
+        "출재비율",
+        "재보험자 부담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 비례재보험특약",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-36",
+      "round": 48,
+      "questionNo": 36,
+      "correct": 2,
+      "attempts": [
+        2,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "재보험",
+      "concept": "초과손해액재보험특약",
+      "keywords": [
+        "비비례재보험",
+        "보유액",
+        "재보험 한도"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 초과손해액재보험특약",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-37",
+      "round": 48,
+      "questionNo": 37,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 비례·비비례재보험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-38",
+      "round": 48,
+      "questionNo": 38,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 확률변수의 기대값",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-39",
+      "round": 48,
+      "questionNo": 39,
+      "correct": 1,
+      "attempts": [
+        1,
+        1,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 열거위험담보·포괄위험담보",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-40",
+      "round": 48,
+      "questionNo": 40,
+      "correct": 2,
+      "attempts": [
+        2,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "정답",
+        "미입력"
+      ],
+      "status": "안정",
+      "priorityScore": 10,
+      "priority": "낮음",
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 안정",
+      "nextAction": "다른 연습문항 살펴보기",
+      "lectureSearchQuery": "공개 연습문항 실제현금가치",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "contentMode": "synthetic_demo"
+    }
+  ],
+  "reviewQueue": [
+    {
+      "id": "48-THEORY-01",
+      "round": 48,
+      "questionNo": 1,
+      "correct": 2,
+      "attempts": [
+        2,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 비례·비비례재보험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-02",
+      "round": 48,
+      "questionNo": 2,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 확률변수의 기대값",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-06",
+      "round": 48,
+      "questionNo": 6,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "위험의 기초",
+      "concept": "손인·위태",
+      "keywords": [
+        "손인",
+        "물리적 위태",
+        "화재"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 손인·위태",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-07",
+      "round": 48,
+      "questionNo": 7,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "위험의 기초",
+      "concept": "도덕적 위태",
+      "keywords": [
+        "도덕적 위태",
+        "고의",
+        "보험사기"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 도덕적 위태",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-11",
+      "round": 48,
+      "questionNo": 11,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "언더라이팅",
+      "concept": "언더라이팅·위험선택",
+      "keywords": [
+        "언더라이팅",
+        "위험선택",
+        "인수조건"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 언더라이팅·위험선택",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 언더라이팅의 핵심 목적은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-12",
+      "round": 48,
+      "questionNo": 12,
+      "correct": 3,
+      "attempts": [
+        4,
+        3,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "보험회계",
+      "concept": "손해율",
+      "keywords": [
+        "손해율",
+        "발생손해액",
+        "경과보험료"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 손해율",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-16",
+      "round": 48,
+      "questionNo": 16,
+      "correct": 2,
+      "attempts": [
+        2,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "보험요율·통계",
+      "concept": "보험요율 산정원칙",
+      "keywords": [
+        "보험요율",
+        "공평성",
+        "위험 반영"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 보험요율 산정원칙",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-17",
+      "round": 48,
+      "questionNo": 17,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "재보험",
+      "concept": "비례재보험특약",
+      "keywords": [
+        "비례재보험",
+        "출재비율",
+        "재보험자 부담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 비례재보험특약",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-21",
+      "round": 48,
+      "questionNo": 21,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 열거위험담보·포괄위험담보",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-22",
+      "round": 48,
+      "questionNo": 22,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 실제현금가치",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-26",
+      "round": 48,
+      "questionNo": 26,
+      "correct": 1,
+      "attempts": [
+        1,
+        2,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "보험의 기본원리",
+      "concept": "대수의 법칙",
+      "keywords": [
+        "대수의 법칙",
+        "위험집단",
+        "예측 가능성"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 대수의 법칙",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-27",
+      "round": 48,
+      "questionNo": 27,
+      "correct": 3,
+      "attempts": [
+        4,
+        3,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "리스크 관리",
+      "concept": "위험재무기법",
+      "keywords": [
+        "위험재무",
+        "보험",
+        "위험전가"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 위험재무기법",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-31",
+      "round": 48,
+      "questionNo": 31,
+      "correct": 3,
+      "attempts": [
+        3,
+        4,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "보험경영",
+      "concept": "합산비율",
+      "keywords": [
+        "합산비율",
+        "손해율",
+        "사업비율"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 합산비율",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-32",
+      "round": 48,
+      "questionNo": 32,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "보험요율·통계",
+      "concept": "기대손해액",
+      "keywords": [
+        "사고빈도",
+        "평균손해액",
+        "순보험료"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 기대손해액",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-36",
+      "round": 48,
+      "questionNo": 36,
+      "correct": 2,
+      "attempts": [
+        2,
+        3,
+        null
+      ],
+      "results": [
+        "정답",
+        "오답",
+        "미입력"
+      ],
+      "status": "불안정",
+      "priorityScore": 90,
+      "priority": "높음",
+      "domain": "재보험",
+      "concept": "초과손해액재보험특약",
+      "keywords": [
+        "비비례재보험",
+        "보유액",
+        "재보험 한도"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 불안정",
+      "nextAction": "합성 예시의 선택 이유를 다시 확인하기",
+      "lectureSearchQuery": "공개 연습문항 초과손해액재보험특약",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "48-THEORY-37",
+      "round": 48,
+      "questionNo": 37,
+      "correct": 2,
+      "attempts": [
+        3,
+        2,
+        null
+      ],
+      "results": [
+        "오답",
+        "정답",
+        "미입력"
+      ],
+      "status": "개선",
+      "priorityScore": 50,
+      "priority": "보통",
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "questionForm": "합성 연습문항",
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "diagnosis": "합성 기록 예시: 개선",
+      "nextAction": "합성 기록에서 바뀐 선택지를 비교하기",
+      "lectureSearchQuery": "공개 연습문항 비례·비비례재보험",
+      "lectureResourceId": null,
+      "sourceNote": "프로그램으로 생성한 가상 선택 기록. 실제 학습자가 아님.",
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "contentMode": "synthetic_demo"
+    }
+  ]
+}

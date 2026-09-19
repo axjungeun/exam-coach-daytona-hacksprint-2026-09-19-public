@@ -1,0 +1,6973 @@
+{
+  "metadata": {
+    "contentMode": "synthetic_demo",
+    "rightsStatus": "independently_authored_templates",
+    "generatedDate": "2026-09-19",
+    "notice": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다.",
+    "distinctTemplateCount": 54,
+    "containsPersonalRecords": false,
+    "containsOfficialExamQuestions": false,
+    "containsTextbookExcerpts": false,
+    "title": "합성 데모 풀이 기록",
+    "sourceType": "합성 데모",
+    "sourceFile": "scripts/generate_public_demo_fixtures.mjs",
+    "subject": "손해사정이론",
+    "subjectCode": "THEORY",
+    "rounds": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "attemptCount": 12,
+    "questionRecordCount": 480,
+    "explicitChoiceCount": 480,
+    "unknownMarkCount": 0,
+    "averageScore": 29,
+    "answerKeyChecks": 0,
+    "gradingSource": "독립 제작 연습문항의 데모 정답",
+    "originalWorkbookModified": false,
+    "recordedAtPolicy": "실제 학습 날짜 없음",
+    "unknownMarkPolicy": "합성 예시는 미상 선택 없음"
+  },
+  "attempts": [
+    {
+      "id": "synthetic-43-THEORY-1",
+      "round": 43,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 1,
+      "score": 26,
+      "total": 40,
+      "percentage": 65,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "43-THEORY-01",
+          "questionNo": 1,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-02",
+          "questionNo": 2,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-03",
+          "questionNo": 3,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-04",
+          "questionNo": 4,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-05",
+          "questionNo": 5,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-06",
+          "questionNo": 6,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-07",
+          "questionNo": 7,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-08",
+          "questionNo": 8,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-09",
+          "questionNo": 9,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-10",
+          "questionNo": 10,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-11",
+          "questionNo": 11,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-12",
+          "questionNo": 12,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-13",
+          "questionNo": 13,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-14",
+          "questionNo": 14,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-15",
+          "questionNo": 15,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-16",
+          "questionNo": 16,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-17",
+          "questionNo": 17,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-18",
+          "questionNo": 18,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-19",
+          "questionNo": 19,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-20",
+          "questionNo": 20,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-21",
+          "questionNo": 21,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-22",
+          "questionNo": 22,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-23",
+          "questionNo": 23,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-24",
+          "questionNo": 24,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-25",
+          "questionNo": 25,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-26",
+          "questionNo": 26,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-27",
+          "questionNo": 27,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-28",
+          "questionNo": 28,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-29",
+          "questionNo": 29,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-30",
+          "questionNo": 30,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-31",
+          "questionNo": 31,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-32",
+          "questionNo": 32,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-33",
+          "questionNo": 33,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-34",
+          "questionNo": 34,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-35",
+          "questionNo": 35,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-36",
+          "questionNo": 36,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-37",
+          "questionNo": 37,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-38",
+          "questionNo": 38,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-39",
+          "questionNo": 39,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-40",
+          "questionNo": 40,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-43-THEORY-2",
+      "round": 43,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 2,
+      "score": 32,
+      "total": 40,
+      "percentage": 80,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "43-THEORY-01",
+          "questionNo": 1,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-02",
+          "questionNo": 2,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-03",
+          "questionNo": 3,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-04",
+          "questionNo": 4,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-05",
+          "questionNo": 5,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-06",
+          "questionNo": 6,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-07",
+          "questionNo": 7,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-08",
+          "questionNo": 8,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-09",
+          "questionNo": 9,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-10",
+          "questionNo": 10,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-11",
+          "questionNo": 11,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-12",
+          "questionNo": 12,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-13",
+          "questionNo": 13,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-14",
+          "questionNo": 14,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-15",
+          "questionNo": 15,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-16",
+          "questionNo": 16,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-17",
+          "questionNo": 17,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-18",
+          "questionNo": 18,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-19",
+          "questionNo": 19,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-20",
+          "questionNo": 20,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-21",
+          "questionNo": 21,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-22",
+          "questionNo": 22,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-23",
+          "questionNo": 23,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-24",
+          "questionNo": 24,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-25",
+          "questionNo": 25,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-26",
+          "questionNo": 26,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-27",
+          "questionNo": 27,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-28",
+          "questionNo": 28,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-29",
+          "questionNo": 29,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-30",
+          "questionNo": 30,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-31",
+          "questionNo": 31,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-32",
+          "questionNo": 32,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-33",
+          "questionNo": 33,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-34",
+          "questionNo": 34,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-35",
+          "questionNo": 35,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-36",
+          "questionNo": 36,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-37",
+          "questionNo": 37,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-38",
+          "questionNo": 38,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-39",
+          "questionNo": 39,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "43-THEORY-40",
+          "questionNo": 40,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-44-THEORY-1",
+      "round": 44,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 1,
+      "score": 26,
+      "total": 40,
+      "percentage": 65,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "44-THEORY-01",
+          "questionNo": 1,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-02",
+          "questionNo": 2,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-03",
+          "questionNo": 3,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-04",
+          "questionNo": 4,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-05",
+          "questionNo": 5,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-06",
+          "questionNo": 6,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-07",
+          "questionNo": 7,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-08",
+          "questionNo": 8,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-09",
+          "questionNo": 9,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-10",
+          "questionNo": 10,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-11",
+          "questionNo": 11,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-12",
+          "questionNo": 12,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-13",
+          "questionNo": 13,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-14",
+          "questionNo": 14,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-15",
+          "questionNo": 15,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-16",
+          "questionNo": 16,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-17",
+          "questionNo": 17,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-18",
+          "questionNo": 18,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-19",
+          "questionNo": 19,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-20",
+          "questionNo": 20,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-21",
+          "questionNo": 21,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-22",
+          "questionNo": 22,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-23",
+          "questionNo": 23,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-24",
+          "questionNo": 24,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-25",
+          "questionNo": 25,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-26",
+          "questionNo": 26,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-27",
+          "questionNo": 27,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-28",
+          "questionNo": 28,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-29",
+          "questionNo": 29,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-30",
+          "questionNo": 30,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-31",
+          "questionNo": 31,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-32",
+          "questionNo": 32,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-33",
+          "questionNo": 33,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-34",
+          "questionNo": 34,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-35",
+          "questionNo": 35,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-36",
+          "questionNo": 36,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-37",
+          "questionNo": 37,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-38",
+          "questionNo": 38,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-39",
+          "questionNo": 39,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-40",
+          "questionNo": 40,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-44-THEORY-2",
+      "round": 44,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 2,
+      "score": 32,
+      "total": 40,
+      "percentage": 80,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "44-THEORY-01",
+          "questionNo": 1,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-02",
+          "questionNo": 2,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-03",
+          "questionNo": 3,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-04",
+          "questionNo": 4,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-05",
+          "questionNo": 5,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-06",
+          "questionNo": 6,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-07",
+          "questionNo": 7,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-08",
+          "questionNo": 8,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-09",
+          "questionNo": 9,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-10",
+          "questionNo": 10,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-11",
+          "questionNo": 11,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-12",
+          "questionNo": 12,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-13",
+          "questionNo": 13,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-14",
+          "questionNo": 14,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-15",
+          "questionNo": 15,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-16",
+          "questionNo": 16,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-17",
+          "questionNo": 17,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-18",
+          "questionNo": 18,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-19",
+          "questionNo": 19,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-20",
+          "questionNo": 20,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-21",
+          "questionNo": 21,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-22",
+          "questionNo": 22,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-23",
+          "questionNo": 23,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-24",
+          "questionNo": 24,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-25",
+          "questionNo": 25,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-26",
+          "questionNo": 26,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-27",
+          "questionNo": 27,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-28",
+          "questionNo": 28,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-29",
+          "questionNo": 29,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-30",
+          "questionNo": 30,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-31",
+          "questionNo": 31,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-32",
+          "questionNo": 32,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-33",
+          "questionNo": 33,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-34",
+          "questionNo": 34,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-35",
+          "questionNo": 35,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-36",
+          "questionNo": 36,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-37",
+          "questionNo": 37,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-38",
+          "questionNo": 38,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-39",
+          "questionNo": 39,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "44-THEORY-40",
+          "questionNo": 40,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-45-THEORY-1",
+      "round": 45,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 1,
+      "score": 26,
+      "total": 40,
+      "percentage": 65,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "45-THEORY-01",
+          "questionNo": 1,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-02",
+          "questionNo": 2,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-03",
+          "questionNo": 3,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-04",
+          "questionNo": 4,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-05",
+          "questionNo": 5,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-06",
+          "questionNo": 6,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-07",
+          "questionNo": 7,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-08",
+          "questionNo": 8,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-09",
+          "questionNo": 9,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-10",
+          "questionNo": 10,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-11",
+          "questionNo": 11,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-12",
+          "questionNo": 12,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-13",
+          "questionNo": 13,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-14",
+          "questionNo": 14,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-15",
+          "questionNo": 15,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-16",
+          "questionNo": 16,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-17",
+          "questionNo": 17,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-18",
+          "questionNo": 18,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-19",
+          "questionNo": 19,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-20",
+          "questionNo": 20,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-21",
+          "questionNo": 21,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-22",
+          "questionNo": 22,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-23",
+          "questionNo": 23,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-24",
+          "questionNo": 24,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-25",
+          "questionNo": 25,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-26",
+          "questionNo": 26,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-27",
+          "questionNo": 27,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-28",
+          "questionNo": 28,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-29",
+          "questionNo": 29,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-30",
+          "questionNo": 30,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-31",
+          "questionNo": 31,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-32",
+          "questionNo": 32,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-33",
+          "questionNo": 33,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-34",
+          "questionNo": 34,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-35",
+          "questionNo": 35,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-36",
+          "questionNo": 36,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-37",
+          "questionNo": 37,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-38",
+          "questionNo": 38,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-39",
+          "questionNo": 39,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-40",
+          "questionNo": 40,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-45-THEORY-2",
+      "round": 45,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 2,
+      "score": 32,
+      "total": 40,
+      "percentage": 80,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "45-THEORY-01",
+          "questionNo": 1,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-02",
+          "questionNo": 2,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-03",
+          "questionNo": 3,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-04",
+          "questionNo": 4,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-05",
+          "questionNo": 5,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-06",
+          "questionNo": 6,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-07",
+          "questionNo": 7,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-08",
+          "questionNo": 8,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-09",
+          "questionNo": 9,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-10",
+          "questionNo": 10,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-11",
+          "questionNo": 11,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-12",
+          "questionNo": 12,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-13",
+          "questionNo": 13,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-14",
+          "questionNo": 14,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-15",
+          "questionNo": 15,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-16",
+          "questionNo": 16,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-17",
+          "questionNo": 17,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-18",
+          "questionNo": 18,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-19",
+          "questionNo": 19,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-20",
+          "questionNo": 20,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-21",
+          "questionNo": 21,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-22",
+          "questionNo": 22,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-23",
+          "questionNo": 23,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-24",
+          "questionNo": 24,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-25",
+          "questionNo": 25,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-26",
+          "questionNo": 26,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-27",
+          "questionNo": 27,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-28",
+          "questionNo": 28,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-29",
+          "questionNo": 29,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-30",
+          "questionNo": 30,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-31",
+          "questionNo": 31,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-32",
+          "questionNo": 32,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-33",
+          "questionNo": 33,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-34",
+          "questionNo": 34,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-35",
+          "questionNo": 35,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-36",
+          "questionNo": 36,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-37",
+          "questionNo": 37,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-38",
+          "questionNo": 38,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-39",
+          "questionNo": 39,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "45-THEORY-40",
+          "questionNo": 40,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-46-THEORY-1",
+      "round": 46,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 1,
+      "score": 26,
+      "total": 40,
+      "percentage": 65,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "46-THEORY-01",
+          "questionNo": 1,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-02",
+          "questionNo": 2,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-03",
+          "questionNo": 3,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-04",
+          "questionNo": 4,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-05",
+          "questionNo": 5,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-06",
+          "questionNo": 6,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-07",
+          "questionNo": 7,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-08",
+          "questionNo": 8,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-09",
+          "questionNo": 9,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-10",
+          "questionNo": 10,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-11",
+          "questionNo": 11,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-12",
+          "questionNo": 12,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-13",
+          "questionNo": 13,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-14",
+          "questionNo": 14,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-15",
+          "questionNo": 15,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-16",
+          "questionNo": 16,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-17",
+          "questionNo": 17,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-18",
+          "questionNo": 18,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-19",
+          "questionNo": 19,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-20",
+          "questionNo": 20,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-21",
+          "questionNo": 21,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-22",
+          "questionNo": 22,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-23",
+          "questionNo": 23,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-24",
+          "questionNo": 24,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-25",
+          "questionNo": 25,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-26",
+          "questionNo": 26,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-27",
+          "questionNo": 27,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-28",
+          "questionNo": 28,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-29",
+          "questionNo": 29,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-30",
+          "questionNo": 30,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-31",
+          "questionNo": 31,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-32",
+          "questionNo": 32,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-33",
+          "questionNo": 33,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-34",
+          "questionNo": 34,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-35",
+          "questionNo": 35,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-36",
+          "questionNo": 36,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-37",
+          "questionNo": 37,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-38",
+          "questionNo": 38,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-39",
+          "questionNo": 39,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-40",
+          "questionNo": 40,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-46-THEORY-2",
+      "round": 46,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 2,
+      "score": 32,
+      "total": 40,
+      "percentage": 80,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "46-THEORY-01",
+          "questionNo": 1,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-02",
+          "questionNo": 2,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-03",
+          "questionNo": 3,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-04",
+          "questionNo": 4,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-05",
+          "questionNo": 5,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-06",
+          "questionNo": 6,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-07",
+          "questionNo": 7,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-08",
+          "questionNo": 8,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-09",
+          "questionNo": 9,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-10",
+          "questionNo": 10,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-11",
+          "questionNo": 11,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-12",
+          "questionNo": 12,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-13",
+          "questionNo": 13,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-14",
+          "questionNo": 14,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-15",
+          "questionNo": 15,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-16",
+          "questionNo": 16,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-17",
+          "questionNo": 17,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-18",
+          "questionNo": 18,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-19",
+          "questionNo": 19,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-20",
+          "questionNo": 20,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-21",
+          "questionNo": 21,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-22",
+          "questionNo": 22,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-23",
+          "questionNo": 23,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-24",
+          "questionNo": 24,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-25",
+          "questionNo": 25,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-26",
+          "questionNo": 26,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-27",
+          "questionNo": 27,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-28",
+          "questionNo": 28,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-29",
+          "questionNo": 29,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-30",
+          "questionNo": 30,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-31",
+          "questionNo": 31,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-32",
+          "questionNo": 32,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-33",
+          "questionNo": 33,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-34",
+          "questionNo": 34,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-35",
+          "questionNo": 35,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-36",
+          "questionNo": 36,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-37",
+          "questionNo": 37,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-38",
+          "questionNo": 38,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-39",
+          "questionNo": 39,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "46-THEORY-40",
+          "questionNo": 40,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-47-THEORY-1",
+      "round": 47,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 1,
+      "score": 26,
+      "total": 40,
+      "percentage": 65,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "47-THEORY-01",
+          "questionNo": 1,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-02",
+          "questionNo": 2,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-03",
+          "questionNo": 3,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-04",
+          "questionNo": 4,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-05",
+          "questionNo": 5,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-06",
+          "questionNo": 6,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-07",
+          "questionNo": 7,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-08",
+          "questionNo": 8,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-09",
+          "questionNo": 9,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-10",
+          "questionNo": 10,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-11",
+          "questionNo": 11,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-12",
+          "questionNo": 12,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-13",
+          "questionNo": 13,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-14",
+          "questionNo": 14,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-15",
+          "questionNo": 15,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-16",
+          "questionNo": 16,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-17",
+          "questionNo": 17,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-18",
+          "questionNo": 18,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-19",
+          "questionNo": 19,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-20",
+          "questionNo": 20,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-21",
+          "questionNo": 21,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-22",
+          "questionNo": 22,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-23",
+          "questionNo": 23,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-24",
+          "questionNo": 24,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-25",
+          "questionNo": 25,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-26",
+          "questionNo": 26,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-27",
+          "questionNo": 27,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-28",
+          "questionNo": 28,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-29",
+          "questionNo": 29,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-30",
+          "questionNo": 30,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-31",
+          "questionNo": 31,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-32",
+          "questionNo": 32,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-33",
+          "questionNo": 33,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-34",
+          "questionNo": 34,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-35",
+          "questionNo": 35,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-36",
+          "questionNo": 36,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-37",
+          "questionNo": 37,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-38",
+          "questionNo": 38,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-39",
+          "questionNo": 39,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-40",
+          "questionNo": 40,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-47-THEORY-2",
+      "round": 47,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 2,
+      "score": 32,
+      "total": 40,
+      "percentage": 80,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "47-THEORY-01",
+          "questionNo": 1,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-02",
+          "questionNo": 2,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-03",
+          "questionNo": 3,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-04",
+          "questionNo": 4,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-05",
+          "questionNo": 5,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-06",
+          "questionNo": 6,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-07",
+          "questionNo": 7,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-08",
+          "questionNo": 8,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-09",
+          "questionNo": 9,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-10",
+          "questionNo": 10,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-11",
+          "questionNo": 11,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-12",
+          "questionNo": 12,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-13",
+          "questionNo": 13,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-14",
+          "questionNo": 14,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-15",
+          "questionNo": 15,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-16",
+          "questionNo": 16,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-17",
+          "questionNo": 17,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-18",
+          "questionNo": 18,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-19",
+          "questionNo": 19,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-20",
+          "questionNo": 20,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-21",
+          "questionNo": 21,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-22",
+          "questionNo": 22,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-23",
+          "questionNo": 23,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-24",
+          "questionNo": 24,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-25",
+          "questionNo": 25,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-26",
+          "questionNo": 26,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-27",
+          "questionNo": 27,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-28",
+          "questionNo": 28,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-29",
+          "questionNo": 29,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-30",
+          "questionNo": 30,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-31",
+          "questionNo": 31,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-32",
+          "questionNo": 32,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-33",
+          "questionNo": 33,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-34",
+          "questionNo": 34,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-35",
+          "questionNo": 35,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-36",
+          "questionNo": 36,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-37",
+          "questionNo": 37,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-38",
+          "questionNo": 38,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-39",
+          "questionNo": 39,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "47-THEORY-40",
+          "questionNo": 40,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-48-THEORY-1",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 1,
+      "score": 26,
+      "total": 40,
+      "percentage": 65,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "48-THEORY-01",
+          "questionNo": 1,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-02",
+          "questionNo": 2,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-03",
+          "questionNo": 3,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-04",
+          "questionNo": 4,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-05",
+          "questionNo": 5,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-06",
+          "questionNo": 6,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-07",
+          "questionNo": 7,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-08",
+          "questionNo": 8,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-09",
+          "questionNo": 9,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-10",
+          "questionNo": 10,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-11",
+          "questionNo": 11,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-12",
+          "questionNo": 12,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-13",
+          "questionNo": 13,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-14",
+          "questionNo": 14,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-15",
+          "questionNo": 15,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-16",
+          "questionNo": 16,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-17",
+          "questionNo": 17,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-18",
+          "questionNo": 18,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-19",
+          "questionNo": 19,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-20",
+          "questionNo": 20,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-21",
+          "questionNo": 21,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-22",
+          "questionNo": 22,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-23",
+          "questionNo": 23,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-24",
+          "questionNo": 24,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-25",
+          "questionNo": 25,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-26",
+          "questionNo": 26,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-27",
+          "questionNo": 27,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-28",
+          "questionNo": 28,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-29",
+          "questionNo": 29,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-30",
+          "questionNo": 30,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-31",
+          "questionNo": 31,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-32",
+          "questionNo": 32,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-33",
+          "questionNo": 33,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-34",
+          "questionNo": 34,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-35",
+          "questionNo": 35,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-36",
+          "questionNo": 36,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-37",
+          "questionNo": 37,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-38",
+          "questionNo": 38,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-39",
+          "questionNo": 39,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-40",
+          "questionNo": 40,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    },
+    {
+      "id": "synthetic-48-THEORY-2",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "attemptNo": 2,
+      "score": 32,
+      "total": 40,
+      "percentage": 80,
+      "recordCount": 40,
+      "choiceCount": 40,
+      "unknownMarkCount": 0,
+      "sourceSheet": "합성 데모 생성기",
+      "recordedAt": null,
+      "records": [
+        {
+          "questionId": "48-THEORY-01",
+          "questionNo": 1,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-02",
+          "questionNo": 2,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-03",
+          "questionNo": 3,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-04",
+          "questionNo": 4,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-05",
+          "questionNo": 5,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-06",
+          "questionNo": 6,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-07",
+          "questionNo": 7,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-08",
+          "questionNo": 8,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-09",
+          "questionNo": 9,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-10",
+          "questionNo": 10,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-11",
+          "questionNo": 11,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-12",
+          "questionNo": 12,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-13",
+          "questionNo": 13,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-14",
+          "questionNo": 14,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-15",
+          "questionNo": 15,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-16",
+          "questionNo": 16,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-17",
+          "questionNo": 17,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-18",
+          "questionNo": 18,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-19",
+          "questionNo": 19,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-20",
+          "questionNo": 20,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-21",
+          "questionNo": 21,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-22",
+          "questionNo": 22,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-23",
+          "questionNo": 23,
+          "concept": "순수위험·투기위험",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-24",
+          "questionNo": 24,
+          "concept": "손인·위태",
+          "domain": "위험의 기초",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-25",
+          "questionNo": 25,
+          "concept": "도덕적 위태",
+          "domain": "위험의 기초",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-26",
+          "questionNo": 26,
+          "concept": "대수의 법칙",
+          "domain": "보험의 기본원리",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": false,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-27",
+          "questionNo": 27,
+          "concept": "위험재무기법",
+          "domain": "리스크 관리",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-28",
+          "questionNo": 28,
+          "concept": "역선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-29",
+          "questionNo": 29,
+          "concept": "언더라이팅·위험선택",
+          "domain": "언더라이팅",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-30",
+          "questionNo": 30,
+          "concept": "손해율",
+          "domain": "보험회계",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": true,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-31",
+          "questionNo": 31,
+          "concept": "합산비율",
+          "domain": "보험경영",
+          "rawEntry": "4",
+          "selectedChoice": "④",
+          "correct": false,
+          "acceptedAnswers": [
+            "③"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-32",
+          "questionNo": 32,
+          "concept": "기대손해액",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-33",
+          "questionNo": 33,
+          "concept": "공제조항·자기부담금",
+          "domain": "재물보험",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-34",
+          "questionNo": 34,
+          "concept": "보험요율 산정원칙",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-35",
+          "questionNo": 35,
+          "concept": "비례재보험특약",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-36",
+          "questionNo": 36,
+          "concept": "초과손해액재보험특약",
+          "domain": "재보험",
+          "rawEntry": "3",
+          "selectedChoice": "③",
+          "correct": false,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-37",
+          "questionNo": 37,
+          "concept": "비례·비비례재보험",
+          "domain": "재보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-38",
+          "questionNo": 38,
+          "concept": "확률변수의 기대값",
+          "domain": "보험요율·통계",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-39",
+          "questionNo": 39,
+          "concept": "열거위험담보·포괄위험담보",
+          "domain": "위험담보방식",
+          "rawEntry": "1",
+          "selectedChoice": "①",
+          "correct": true,
+          "acceptedAnswers": [
+            "①"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        },
+        {
+          "questionId": "48-THEORY-40",
+          "questionNo": 40,
+          "concept": "실제현금가치",
+          "domain": "재물보험",
+          "rawEntry": "2",
+          "selectedChoice": "②",
+          "correct": true,
+          "acceptedAnswers": [
+            "②"
+          ],
+          "recordState": "answered",
+          "contentMode": "synthetic_demo"
+        }
+      ],
+      "contentMode": "synthetic_demo"
+    }
+  ]
+}

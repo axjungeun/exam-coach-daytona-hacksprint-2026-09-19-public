@@ -1,0 +1,21 @@
+{
+  "event": "Daytona HackSprint Seoul 2026 — public synthetic edition",
+  "verifiedAtKst": "미실행: 공개 합성 데이터",
+  "provider": "Daytona Sandbox (not run)",
+  "keyScope": "Set your own sandbox API key",
+  "sandboxId": "",
+  "command": "POST /api/daytona-hacksprint",
+  "sourcePath": "app/data/exam-questions-40-49.json",
+  "result": {
+    "questionCount": 0,
+    "uniqueIds": 0,
+    "subjectCount": 0,
+    "roundRange": "not-run",
+    "invalidChoiceCounts": 0,
+    "missingAnswers": 0,
+    "valid": false
+  },
+  "secretBoundary": "No private exam questions, personal records, textbook passages, API keys, or account IDs are included. This placeholder is not a live receipt.",
+  "contentMode": "synthetic_demo",
+  "executionStatus": "not-run"
+}

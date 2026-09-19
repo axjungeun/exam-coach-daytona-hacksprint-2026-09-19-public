@@ -1,0 +1,571 @@
+{
+  "generatedAtKst": "2026-09-19 15:05 KST",
+  "scope": "Public synthetic app, historical sponsor receipts, public demo excerpt, and slide deck",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 80,
+      "sha256": "ee390c36ae1b1050b95192e7d5e01457946cf724af9f3c45fccd295449c8bed5"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 26,
+      "sha256": "06d996ae437074afdc0bb0fd0de8e054b9187fb53f1eb3946da84475cd5aceeb"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 138,
+      "sha256": "ca3055cb2f2dba930a274e613fad712684e68ad30ba2ef00b62a78836547449c"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 4702,
+      "sha256": "d07f36be5e3ddcdf1c1e5858124d25ea1b3bd4be7a14961db055a5d458781e5a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5331,
+      "sha256": "274654db87a02ece2b22d5ca033c7e1923ce87ad56819abb63ab76cca2e8067c"
+    },
+    {
+      "path": "SOURCE_NOTICE.md",
+      "bytes": 878,
+      "sha256": "f4fdd26653aaee5bb14ec36d3dde217a0778780f39eb6d447211b586358cf7ca"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "bytes": 2880,
+      "sha256": "2ff23f1a70ea362429d134899024c69771e4d0acb26b6e0458771ea953543e7b"
+    },
+    {
+      "path": "app/api/attempts/route.ts",
+      "bytes": 3508,
+      "sha256": "fd7cf7e0395d78620eb1192894bb122d71f53df3238315ec42f58bd418cfa4de"
+    },
+    {
+      "path": "app/api/auth/route.ts",
+      "bytes": 3238,
+      "sha256": "87540d197af3e568eb8a9d05a41b45d73921b9f95ede42cab98fcf1eea073875"
+    },
+    {
+      "path": "app/api/coach/route.ts",
+      "bytes": 3039,
+      "sha256": "8b73a770eee4d1bfd568529043d78e7af0bb13d5f399f2627d95ab1e3d717acb"
+    },
+    {
+      "path": "app/api/daytona-hacksprint/route.ts",
+      "bytes": 7721,
+      "sha256": "2b9171fc450f16488e2ae410a3350cea521af3de2e9023204f333b0348bea03b"
+    },
+    {
+      "path": "app/api/essay-ocr/route.ts",
+      "bytes": 5427,
+      "sha256": "7faf1a832f30af071cfa6d1ee8e43ae704b024d0b747d086d4f14af5a93d3a64"
+    },
+    {
+      "path": "app/api/exams/route.ts",
+      "bytes": 7638,
+      "sha256": "9c98db598e8eed1a474165d07ec800cb20b6ad94585667e422a20751d0895298"
+    },
+    {
+      "path": "app/api/hacksprint-sponsors/route.ts",
+      "bytes": 1518,
+      "sha256": "6b08c59ccf8c875910fee6787046b4eff2c17c8ef72170e04c3261af26e322bd"
+    },
+    {
+      "path": "app/api/instructor-insights/route.ts",
+      "bytes": 20287,
+      "sha256": "6620f9db8b3580532e7e10e0ef6f0f237d83129b516c1a79e9b95137387f760c"
+    },
+    {
+      "path": "app/api/sponsors/route.ts",
+      "bytes": 2388,
+      "sha256": "835991d758189d4733ca86617388f1e26f15819a3863814a8f65ecc7b143f60c"
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "bytes": 2550,
+      "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc"
+    },
+    {
+      "path": "app/components/exam-stage-navigation.tsx",
+      "bytes": 408,
+      "sha256": "db32c77154ac548dff58c77601661b421f318eff63b7f40674a1dcc40f43edcb"
+    },
+    {
+      "path": "app/components/hacksprint-sponsors.tsx",
+      "bytes": 2278,
+      "sha256": "a8ca437634ace4d8b7be3a47a388d78ff4e8326968718651518a4e82455b1bd4"
+    },
+    {
+      "path": "app/components/learner-access.tsx",
+      "bytes": 8214,
+      "sha256": "4596674c7d22a87e1f3fcfe4f116667746d0d9845bf1fe4ef924a64a446bfe94"
+    },
+    {
+      "path": "app/components/second-exam-cases.tsx",
+      "bytes": 2402,
+      "sha256": "5adcc1a7598cc34db81c513b8c6c2a6440cdca00ec155a52e3ae1b8e6612d484"
+    },
+    {
+      "path": "app/components/teaching-workspace.tsx",
+      "bytes": 22912,
+      "sha256": "9f376004b2e1a6635a713c70f3cbc6a08c66312826a165e9bca6ae770181817c"
+    },
+    {
+      "path": "app/data/choice-diagnostics.json",
+      "bytes": 89861,
+      "sha256": "8d69ba1a61bd3261c28b5331ac4e58be71a8f40bff36a89bedb26eb97970ba0c"
+    },
+    {
+      "path": "app/data/daytona-hacksprint-evidence.json",
+      "bytes": 762,
+      "sha256": "9777d11decc8c21c6bd6551c810e0e3bcd7b398ce75fe21e707d473c4afc0f68"
+    },
+    {
+      "path": "app/data/diagnosis.json",
+      "bytes": 65934,
+      "sha256": "1fca854dde69823d8d17720f8f5926e7f1e5d1ef44d261e71ad2e70fd0b93b0a"
+    },
+    {
+      "path": "app/data/exam-concept-notes.json",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "app/data/exam-questions-40-49.json",
+      "bytes": 1810007,
+      "sha256": "740919ac30a4a5039edf97283a55a07b471fcb818a05e11e565a326226029792"
+    },
+    {
+      "path": "app/data/exam-vocabulary-standard.json",
+      "bytes": 6571,
+      "sha256": "12b57c023e027f835fbe10d1b326c2bda2606bee037d2a5066f54e9b3bf3c986"
+    },
+    {
+      "path": "app/data/keyword-map.json",
+      "bytes": 231154,
+      "sha256": "5bc853bb413dc84d55eb3dc228e58a68114c0d7dccf3085132dcd8d22a19fd0f"
+    },
+    {
+      "path": "app/data/lecture-evidence-index.json",
+      "bytes": 852,
+      "sha256": "34546bc733d81f9af10691db4aa4bfc7895c87a3bee8d4ef366e9a67c588416d"
+    },
+    {
+      "path": "app/data/lecture-evidence-top.json",
+      "bytes": 852,
+      "sha256": "34546bc733d81f9af10691db4aa4bfc7895c87a3bee8d4ef366e9a67c588416d"
+    },
+    {
+      "path": "app/data/legacy-attempts.json",
+      "bytes": 200458,
+      "sha256": "52198aa968c5a8d361de0acd99b018dfd41d303e44c47aedc54f2e1033901be3"
+    },
+    {
+      "path": "app/data/live-evidence-refresh.mock.json",
+      "bytes": 2260,
+      "sha256": "db447d0e290c3242b9da2da49d6e60e94b64dc04c8421a0e879777ed6cd3557d"
+    },
+    {
+      "path": "app/data/public-practice-questions.json",
+      "bytes": 55519,
+      "sha256": "776ed23e735281ef350260a6172efdebc20b9bc17f74597eecac1fd412e3dc7d"
+    },
+    {
+      "path": "app/data/second-exam-cases.ts",
+      "bytes": 3716,
+      "sha256": "2e680bfd0978b8ce9f3149d31567b45a41f03a2e0143e0561e3bf70ba17bdfd3"
+    },
+    {
+      "path": "app/data/sponsor-readiness.json",
+      "bytes": 1416,
+      "sha256": "438cac5f35e2a82d66a71fc61f664ddc0393c033e447aac5a903faa6c407fcc8"
+    },
+    {
+      "path": "app/exams/first/page.tsx",
+      "bytes": 38,
+      "sha256": "fabf37ff86685d6b5c073e4602ca842c13c866596297e3cdb0956d27a3ef46e7"
+    },
+    {
+      "path": "app/exams/second/page.tsx",
+      "bytes": 1064,
+      "sha256": "fec3ee3de2d0d070609192797f437d7cb65a331f4dc69e16630537632c797f7c"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 133438,
+      "sha256": "a41abb36fe2019ef165cdd7df8763c401c23d4e08353b3934b004234531ff13f"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 1041,
+      "sha256": "a736f3458eb3e86b0a7af5a63a516a6210f8c2123a314b6e135fff1831fda888"
+    },
+    {
+      "path": "app/lib/analysis-signal.ts",
+      "bytes": 6692,
+      "sha256": "df722e7917c74a04a2954b507870b4f02c5f562e2d1746f876474736df82fa68"
+    },
+    {
+      "path": "app/lib/answer-document.ts",
+      "bytes": 2907,
+      "sha256": "9cf980e8953396b9e7e63f126f781b3ed57d0e2ccf9aa76af110d1e043985fb4"
+    },
+    {
+      "path": "app/lib/attempt-store.ts",
+      "bytes": 6476,
+      "sha256": "946cef290d922476486cbdb98e01631da85bd280427acf415291735641e438f0"
+    },
+    {
+      "path": "app/lib/coach.ts",
+      "bytes": 10125,
+      "sha256": "29948a16a781ae13acb0024e225d9b41144f4828704a488f4e3c318f9981e6cb"
+    },
+    {
+      "path": "app/lib/essay-review.ts",
+      "bytes": 6786,
+      "sha256": "33bb6af39ac242c5126feba74fa7151b81bcc1e4479781841edd648b281704f0"
+    },
+    {
+      "path": "app/lib/evidence-refresh.ts",
+      "bytes": 7161,
+      "sha256": "63227e3635f5afbe07cd1792e91d5a41cda3422c9a90700154da63529fda3742"
+    },
+    {
+      "path": "app/lib/hacksprint-sponsors.ts",
+      "bytes": 3567,
+      "sha256": "88bb3ad39a23b4ad9863cec360d30428786f10b327dc4c83b7337989339a0932"
+    },
+    {
+      "path": "app/lib/keyword-taxonomy.ts",
+      "bytes": 15232,
+      "sha256": "82124631d1a3e67d7317dbd426c5d713e9dd0d71ac6c489cbb226d513363e5fa"
+    },
+    {
+      "path": "app/lib/learner-auth.ts",
+      "bytes": 5331,
+      "sha256": "1bb8e70f64fc98bdaf6fa1874e9af57d4b2e803394e6fec4b45f9f35ff5b2b4a"
+    },
+    {
+      "path": "app/lib/providers/bright-data-evidence.ts",
+      "bytes": 2687,
+      "sha256": "0940b683c1f392a17d37b8c07f666a4381bc4fc6168bd7482a932292184719b6"
+    },
+    {
+      "path": "app/lib/providers/mock-tavily-evidence.ts",
+      "bytes": 614,
+      "sha256": "3116e9d2d783633d786971e1936fd6fa6f0414252c4a713bcd98cb2cf35b535e"
+    },
+    {
+      "path": "app/lib/providers/tavily-evidence.ts",
+      "bytes": 4322,
+      "sha256": "9143c1b16d04d7e37a77d509e2cf028bcc5c8109571e4cbf73001c66ceb63fdf"
+    },
+    {
+      "path": "app/lib/qwen.ts",
+      "bytes": 3548,
+      "sha256": "be76c4b8243f8e8d9605e6e98d3d9c9ef55176f137f7814bab7979f06acfdc57"
+    },
+    {
+      "path": "app/lib/runtime-env.ts",
+      "bytes": 316,
+      "sha256": "0f93499626dae3dcd39b3bfc9ab4a079d684186fc5e725bce6f2dbc5abc8e280"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 181916,
+      "sha256": "aaf1093b3f4cd7382debbed82163a4608ad41632e16425e93b7b9ed81157d0d7"
+    },
+    {
+      "path": "cloudflare-workers.d.ts",
+      "bytes": 85,
+      "sha256": "f25ed34236f067194c283f429ebfa17166fe32d3fc530497af54b5aa9a537042"
+    },
+    {
+      "path": "db/index.ts",
+      "bytes": 423,
+      "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd"
+    },
+    {
+      "path": "db/schema.ts",
+      "bytes": 5748,
+      "sha256": "7c1531211f562237ff55e803db9e7b93f2e12c7ea66e0cff7f6d0e26900c56cb"
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "bytes": 61,
+      "sha256": "90cb374e093894d0efce6f1830d873a42aadd8ba49d2f024495e5cb2e1c8c303"
+    },
+    {
+      "path": "drizzle.config.ts",
+      "bytes": 148,
+      "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "bytes": 1125,
+      "sha256": "60ff88e42771a1a239f4b0f71eaa61a42379215caeb7457b29da553c6e90bd7e"
+    },
+    {
+      "path": "evidence/sponsor-live-2026-09-19.json",
+      "bytes": 1601,
+      "sha256": "3791b6a783d9a85f9d16ca856f8b9899ed2f7320cf706378e24a35e994b03f61"
+    },
+    {
+      "path": "examples/d1/app/api/notes/route.ts",
+      "bytes": 1700,
+      "sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909"
+    },
+    {
+      "path": "examples/d1/db/schema.ts",
+      "bytes": 370,
+      "sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454"
+    },
+    {
+      "path": "media/exam-coach-public-sponsor-demo-2026-09-19.mp4",
+      "bytes": 2513539,
+      "sha256": "4a759bb8bb89668e1fef934693199779603cd83cbdbf1831ce1b2e78c55b849a"
+    },
+    {
+      "path": "migrations/0001_multi_learner.sql",
+      "bytes": 2101,
+      "sha256": "9021e60100e1e16b71c973a726a0762dd6f7edaf23309bed6162691d233a1ebf"
+    },
+    {
+      "path": "migrations/0002_feedback_reports.sql",
+      "bytes": 853,
+      "sha256": "044d4d1365cd1cd8640e6d1857e38598d2550cccd8ed64cf26365bf93f9adf64"
+    },
+    {
+      "path": "migrations/0003_public_practice_mode.sql",
+      "bytes": 401,
+      "sha256": "b2decf7de31a0e149289a9b3b15b3fdcbc4c020783a575b53786bc419db461b2"
+    },
+    {
+      "path": "migrations/0004_data_origin.sql",
+      "bytes": 289,
+      "sha256": "eaf8c2197a0a1adf1577c2a6811966745fdb32348bddb34f6183c72f124c5022"
+    },
+    {
+      "path": "migrations/0005_closed_learning_loop.sql",
+      "bytes": 3336,
+      "sha256": "247142ce1847abdbf4dcdea0ad4b5d778713f1e855bb9921cd9a9b17c2a8e572"
+    },
+    {
+      "path": "next-env.d.ts",
+      "bytes": 189,
+      "sha256": "a291a6b60536fec0a3b9d4ffd6d51179b463e9bc20281d7499d756813b4c07d5"
+    },
+    {
+      "path": "next.config.ts",
+      "bytes": 133,
+      "sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 484341,
+      "sha256": "d3e1c8ceff7d4df42ab790e0479d193f72124b2e371410c2f48ae89986de03e1"
+    },
+    {
+      "path": "package.json",
+      "bytes": 3177,
+      "sha256": "45641bd44cb0ff8f89e770e1c2c1fd5839691b1db2ab7de1f086ba81ccfd063f"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "bytes": 94,
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+    },
+    {
+      "path": "public/favicon.ico",
+      "bytes": 2510,
+      "sha256": "a8657320c6e53f529d343ebeda2fdfafe36335e7f7b1069712ba315cfa5afa97"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 712,
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "public/file.svg",
+      "bytes": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "path": "public/globe.svg",
+      "bytes": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "path": "public/window.svg",
+      "bytes": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    },
+    {
+      "path": "scripts/apply_exam_vocabulary_standard.mjs",
+      "bytes": 1813,
+      "sha256": "264ca8c4ae2e6bc95ffb6db3f50bac5e2e004c0e560c88087b17dc992fe362d5"
+    },
+    {
+      "path": "scripts/check_live_evidence_fixture.mjs",
+      "bytes": 1450,
+      "sha256": "8614fa676399b9548ced039331ab35825178389081f582717e7029217408c78a"
+    },
+    {
+      "path": "scripts/check_public_practice_bank.mjs",
+      "bytes": 6334,
+      "sha256": "9dace1bc88c88066db8433562673402a60bdeb5fc288649ff9b75c3962381d9c"
+    },
+    {
+      "path": "scripts/generate_public_demo_fixtures.mjs",
+      "bytes": 12395,
+      "sha256": "dc6d048304dc3ef496461a3ebf35c776ce91587edca4d2a34bb2e10079f261ee"
+    },
+    {
+      "path": "scripts/generate_synthetic_learners.mjs",
+      "bytes": 7928,
+      "sha256": "11c9598b7573b3fb2ea9dced29e2155d7092f1890aeb28b93d39632b020003c1"
+    },
+    {
+      "path": "scripts/prepare_pdf_worker.mjs",
+      "bytes": 455,
+      "sha256": "6f4296187900a58e43eced542396dd2756d40f08583187491dbe6067e801b1c1"
+    },
+    {
+      "path": "scripts/prompt_behavior_tracker.mjs",
+      "bytes": 16761,
+      "sha256": "3244cbb8804b30b1995cee4b2acd9c341f6a756dcff1e8cf425bde679ceeef14"
+    },
+    {
+      "path": "scripts/sponsors/bright_data_refresh.mjs",
+      "bytes": 1123,
+      "sha256": "a0e285ef6a8663812942fbd12d9851f43754ab6ac3b81e525b14f14dd181d9a0"
+    },
+    {
+      "path": "scripts/sponsors/daytona_validate.mjs",
+      "bytes": 1995,
+      "sha256": "439d84b61630f87f2a8822113fcc50a18b762231e0367beb13854e37771fea0e"
+    },
+    {
+      "path": "scripts/sponsors/field_check.mjs",
+      "bytes": 6220,
+      "sha256": "8877014c5b612806cb94a41957e5c24fd9425806e924c3652caa0b1932c8f792"
+    },
+    {
+      "path": "scripts/sponsors/nosana_batch_job.mjs",
+      "bytes": 1931,
+      "sha256": "3703a0c3c3ec1fc164d4c5e9310e44a7a933c8c4314ea66ba97640c485b50b45"
+    },
+    {
+      "path": "scripts/sponsors/qwen_smoke.mjs",
+      "bytes": 1409,
+      "sha256": "9f3793285af94acdae73124d81aba564fe0905ab108aa1f8039fa1633156b196"
+    },
+    {
+      "path": "slides/Exam-Coach-Project-Slide-Deck-2026-09-19.pdf",
+      "bytes": 376697,
+      "sha256": "748bcde19c4cde880bdeb71936f879bdf276a3c67356aaadfa056a0c4a91e7ab"
+    },
+    {
+      "path": "study-worker/index.ts",
+      "bytes": 18723,
+      "sha256": "ce982e1e56d0bf2e5d7c753334e05dd819bb5210df6b5352bb7f6a6d2e676590"
+    },
+    {
+      "path": "study-worker/public/app.js",
+      "bytes": 30825,
+      "sha256": "43170ef79c30eaa1cb80cca742323a339fb1d4649cb1f4664dbda2ca7b88a0a0"
+    },
+    {
+      "path": "study-worker/public/index.html",
+      "bytes": 552,
+      "sha256": "ebad734cd669b535d0b25d299bbc0918355cfd9a7a1903ea11f779c0c95267fd"
+    },
+    {
+      "path": "study-worker/public/styles.css",
+      "bytes": 21397,
+      "sha256": "d4bf4b7ed990774a4d1a6d7673ab2fdda1d1ca31a47b7926f5e088aa34e7caf4"
+    },
+    {
+      "path": "tests/closed-learning-loop.test.mjs",
+      "bytes": 2868,
+      "sha256": "126934d4e1cfb82d571405a0213d24657223644c793ebe8942fbf628bd64876b"
+    },
+    {
+      "path": "tests/essay-review.test.mjs",
+      "bytes": 5054,
+      "sha256": "34c451a9f6a09790e824e37004c23ed15a47e0608d860bc3fc70e4bfca78b3b7"
+    },
+    {
+      "path": "tests/hacksprint-sponsors.test.mjs",
+      "bytes": 2482,
+      "sha256": "01c2eb75cf096a4cd1cfd3ed8177e0ee1960e5190fd6633934a166aef4087db3"
+    },
+    {
+      "path": "tests/live-evidence-refresh.test.mjs",
+      "bytes": 1616,
+      "sha256": "4ba768423e03da9b43301e5199b76368368e099ad0d421d05479dc3e920fb424"
+    },
+    {
+      "path": "tests/prompt-behavior-tracker.test.mjs",
+      "bytes": 5961,
+      "sha256": "c42d86e3031c7c761f8611ccafeddcb012102f73dd4e92fdc454a53e67b21a9a"
+    },
+    {
+      "path": "tests/public-practice.test.mjs",
+      "bytes": 4195,
+      "sha256": "07f57a75ca24798dbc1d9e25c4cbae4c31df034734a8237bd51963dd0348a5ae"
+    },
+    {
+      "path": "tests/rendered-html.test.mjs",
+      "bytes": 20083,
+      "sha256": "4b613d01c30606cfc1a203268e4367705995c48a4b57d196ff94a33192f6f711"
+    },
+    {
+      "path": "tests/second-exam-cases.test.mjs",
+      "bytes": 1527,
+      "sha256": "26fd128dab1ce94b92da5508c913696c2c8a485f6719cf9655777154941daefa"
+    },
+    {
+      "path": "tests/study-feedback.test.mjs",
+      "bytes": 3050,
+      "sha256": "b4ed6a60e6040deb53ba4da301ce06d21378c50bb2b73d536e36bcb6b30638e8"
+    },
+    {
+      "path": "tests/synthetic-insights.test.mjs",
+      "bytes": 4719,
+      "sha256": "ba4277f9bceee9592f6f8cc7e853902c0d62edb84aaf95eb09581e07339e60c8"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 603,
+      "sha256": "379054f6cec60ebd0e18c47a3ce72b2cc1b3f7abd0037c668e87cb2070891147"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 1278,
+      "sha256": "379986b633cae8a8ef4ab4ba9ad3c3e993b9550df4963bf3a031d161a6281937"
+    },
+    {
+      "path": "worker/index.ts",
+      "bytes": 28480,
+      "sha256": "5558395064aefa0980e7a24ebcebd4d3fb849bced91b1be24875a12e907e1ccb"
+    },
+    {
+      "path": "wrangler.jsonc",
+      "bytes": 557,
+      "sha256": "aa0ef444717c956ec753076dcd9ea04b014f99f57c1d21db8cc57aced7c4ff16"
+    },
+    {
+      "path": "wrangler.study.jsonc",
+      "bytes": 611,
+      "sha256": "3ea2da129c822823ddea78f3eabad64281f6507cdbafd95ef4a86620ef27eb85"
+    }
+  ]
+}

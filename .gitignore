@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.env*
+!.env.example
+.dev.vars*
+output/
+outputs/
+public/vendor/pdfjs/
+*.log
+*.pem
+.DS_Store

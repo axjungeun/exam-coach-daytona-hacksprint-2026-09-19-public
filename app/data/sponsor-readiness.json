@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "project": "Exam Coach public synthetic demo",
+  "generatedAt": null,
+  "mode": "dry-run",
+  "adapterReadyCount": 2,
+  "configuredCount": 0,
+  "verifiedCount": 0,
+  "failedCount": 0,
+  "integrations": [
+    {
+      "id": "daytona",
+      "name": "Daytona",
+      "purpose": "Validate synthetic record structure in an ephemeral sandbox",
+      "adapter": "scripts/sponsors/daytona_validate.mjs",
+      "requiredSecrets": [
+        "DAYTONA_API_KEY"
+      ],
+      "adapterSha256": "",
+      "adapterReady": true,
+      "configured": false,
+      "durationMs": 0,
+      "status": "awaiting-key",
+      "proof": "Public checkout has no configured keys and no live receipt. Historical private-demo evidence is separate.",
+      "evidenceFile": "",
+      "evidenceSha256": "",
+      "error": null
+    },
+    {
+      "id": "nosana",
+      "name": "Nosana",
+      "purpose": "Generate a review suggestion from a fixed synthetic example",
+      "adapter": "app/lib/hacksprint-sponsors.ts",
+      "requiredSecrets": [
+        "NOSANA_API_KEY"
+      ],
+      "adapterSha256": "",
+      "adapterReady": true,
+      "configured": false,
+      "durationMs": 0,
+      "status": "awaiting-key",
+      "proof": "Public checkout has no configured keys and no live receipt. Historical private-demo evidence is separate.",
+      "evidenceFile": "",
+      "evidenceSha256": "",
+      "error": null
+    }
+  ]
+}

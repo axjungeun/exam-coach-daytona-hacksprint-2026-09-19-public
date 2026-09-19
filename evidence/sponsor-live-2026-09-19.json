@@ -1,0 +1,36 @@
+{
+  "event": "Daytona HackSprint Seoul 2026",
+  "recordedAtKst": "2026-09-19 14:20 KST",
+  "runtime": "local Node development server; real external sponsor calls",
+  "publishedVideo": "media/exam-coach-public-sponsor-demo-2026-09-19.mp4",
+  "scope": "Historical successful local calls on the original working dataset; not a live run against the replacement public synthetic fixture, production deployment, or guarantee of current service availability",
+  "daytona": {
+    "status": "verified",
+    "fallbackUsed": false,
+    "sandboxId": "07bbf217-ea39-4eb5-85cd-4d52ed1e5d43",
+    "result": {
+      "questionCount": 1200,
+      "uniqueIds": 1200,
+      "subjectCount": 3,
+      "roundRange": "40-49",
+      "invalidChoiceCounts": 0,
+      "missingAnswers": 0,
+      "valid": true
+    }
+  },
+  "nosana": {
+    "provider": "Nosana",
+    "scope": "synthetic-study-example",
+    "checkedAt": "2026-09-19T05:20:33.719Z",
+    "status": "verified",
+    "model": "qwen/qwen3.8-27b",
+    "output": "분모를 같게 만든 다음 분자끼리 더하는 분수 덧셈 연습 1개를 다시 풀어 보세요. 다음에는 분모를 같게 만드는 단계를 먼저 확인하는 문제를 하나 더 풀어 보세요.",
+    "requestId": "chatcmpl-90f0a5ebe23a9ff1",
+    "message": "Nosana 실호출 완료 · 합성 예시에 대한 AI 생성 복습 제안이며 검토가 필요합니다."
+  },
+  "publicExcerpt": {
+    "startSecondsInOriginal": 23.49,
+    "durationSeconds": 54.633333,
+    "omission": "Opening scene with question text and material reference excluded; original recorded audio retained"
+  }
+}

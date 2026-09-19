@@ -1,0 +1,5481 @@
+{
+  "metadata": {
+    "contentMode": "synthetic_demo",
+    "rightsStatus": "independently_authored_templates",
+    "generatedDate": "2026-09-19",
+    "notice": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다.",
+    "distinctTemplateCount": 54,
+    "containsPersonalRecords": false,
+    "containsOfficialExamQuestions": false,
+    "containsTextbookExcerpts": false,
+    "title": "합성 데모 문항별 개념 연결",
+    "questionCount": 120,
+    "subjects": [
+      "보험업법",
+      "보험계약법",
+      "손해사정이론"
+    ],
+    "scope": "공개 연습문항 메타데이터 기반 합성 연결",
+    "sourceDirectory": "app/data/public-practice-questions.json",
+    "originalFilesModified": false
+  },
+  "taxonomy": {
+    "dimensions": [
+      "가상슬롯",
+      "과목",
+      "공개연습개념"
+    ],
+    "numericTypes": [
+      "없음"
+    ]
+  },
+  "questions": [
+    {
+      "id": "48-BIZ-01",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 1,
+      "questionText": "[합성 데모] 보험관계단체의 일반적인 기능으로 보기 어려운 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험관계단체의 일반적인 기능으로 보기 어려운 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험산업 관련 정보와 통계의 지원",
+        "②": "건전한 모집질서를 위한 공동 업무",
+        "③": "보험제도 발전을 위한 조사와 연구",
+        "④": "개별 민사분쟁에 대해 법원을 대신한 확정판결 선고"
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험관계단체",
+      "concept": "보험관계단체",
+      "keywords": [
+        "보험협회",
+        "보험개발원",
+        "산업 지원"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-02",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 2,
+      "questionText": "[합성 데모] 보험개발원의 업무와 가장 관련이 깊은 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험개발원의 업무와 가장 관련이 깊은 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험요율 산출을 위한 통계와 제도 연구 지원",
+        "②": "모든 교통사고의 형사처벌 결정",
+        "③": "개별 보험회사의 대표이사 선임",
+        "④": "법원의 손해배상 판결 집행"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험관계단체",
+      "concept": "보험개발원",
+      "keywords": [
+        "보험개발원",
+        "보험통계",
+        "요율산출"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-03",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 3,
+      "questionText": "[합성 데모] 보험계리사와 손해사정사의 업무를 바르게 연결한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계리사와 손해사정사의 업무를 바르게 연결한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험계리사-사고 현장 수사, 손해사정사-법률 제정",
+        "②": "보험계리사-보험 모집, 손해사정사-회사 회계감사",
+        "③": "보험계리사-보험수리와 책임준비금 검토, 손해사정사-손해액과 보험금 사정",
+        "④": "보험계리사-형사판결, 손해사정사-보험업 허가"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험전문인",
+      "concept": "보험계리사·손해사정사",
+      "keywords": [
+        "보험계리사",
+        "손해사정사",
+        "전문업무"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-04",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 4,
+      "questionText": "[합성 데모] 보험상품 광고에서 가장 주의해야 할 표현은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품 광고에서 가장 주의해야 할 표현은?",
+        "context": {
+          "label": "사례",
+          "text": "어떤 경우에도 보험금이 지급됩니다. 예외는 확인할 필요가 없습니다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "상품명을 표시한 부분",
+        "②": "중요한 제한을 숨기고 보장이 확정적인 것처럼 오인하게 하는 부분",
+        "③": "회사 연락처를 표시한 부분",
+        "④": "약관 확인을 권한 부분"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험모집",
+      "concept": "보험상품 광고",
+      "keywords": [
+        "보험광고",
+        "오인 가능성",
+        "중요 제한"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-05",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 5,
+      "questionText": "[합성 데모] 보험업의 허가 제도를 설명한 내용으로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험업의 허가 제도를 설명한 내용으로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "회사 이름에 보험이라는 단어가 없으면 허가 없이 보험업을 할 수 있다.",
+        "②": "보험업을 영위하려면 법에서 정한 절차에 따라 해당 보험종목의 허가를 받아야 한다.",
+        "③": "온라인으로만 계약을 체결하면 보험업 허가가 면제된다.",
+        "④": "보험료를 받지 않는 첫해에는 허가 없이 영업할 수 있다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험업 진입",
+      "concept": "보험업의 허가",
+      "keywords": [
+        "보험업 허가",
+        "보험종목",
+        "진입규제"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-06",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 6,
+      "questionText": "[합성 데모] 보험중개사의 역할을 가장 정확하게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험중개사의 역할을 가장 정확하게 설명한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사의 임직원으로서 보험금 지급 여부를 최종 결정한다.",
+        "②": "보험회사를 대신하여 모든 보험료율을 인가한다.",
+        "③": "보험계약 체결을 중개하며 계약 당사자에게 필요한 정보를 제공한다.",
+        "④": "보험사고가 발생한 뒤 법원의 판결을 대신 작성한다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험모집",
+      "concept": "보험중개사",
+      "keywords": [
+        "보험중개사",
+        "모집종사자",
+        "계약 중개"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-07",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 7,
+      "questionText": "[합성 데모] 보험계약 모집 과정에서 특별이익 제공 제한과 가장 직접적으로 관련된 사례는?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약 모집 과정에서 특별이익 제공 제한과 가장 직접적으로 관련된 사례는?",
+        "context": {
+          "label": "사례",
+          "text": "모집인 네 명이 신규 계약자에게 서로 다른 혜택을 제안했다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보장 제외사항을 설명하고 확인을 받았다.",
+        "②": "공식 상품설명서의 비교표를 제공했다.",
+        "③": "청약철회 절차를 서면으로 안내했다.",
+        "④": "계약 체결을 조건으로 허용 범위를 벗어난 현금을 지급하겠다고 약속했다."
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험모집",
+      "concept": "특별이익의 제공 금지",
+      "keywords": [
+        "특별이익",
+        "모집질서",
+        "소비자보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-08",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 8,
+      "questionText": "[합성 데모] 보험상품의 중요 내용을 설명하는 절차의 주된 목적은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품의 중요 내용을 설명하는 절차의 주된 목적은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "소비자가 보장내용과 주요 제한을 이해한 상태에서 계약을 판단하도록 돕는 것",
+        "②": "모든 상품의 보험료를 동일하게 만드는 것",
+        "③": "보험사고 발생 후에만 약관을 제공하는 것",
+        "④": "계약자의 질문을 보험회사 내부 기록에서 제외하는 것"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험모집",
+      "concept": "설명의무",
+      "keywords": [
+        "설명의무",
+        "중요사항",
+        "소비자 이해"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-09",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 9,
+      "questionText": "[합성 데모] 고객의 폭언으로부터 고객응대직원을 보호하기 위한 조치로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 고객의 폭언으로부터 고객응대직원을 보호하기 위한 조치로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "직원에게 모든 상황을 혼자 해결하도록 요구한다.",
+        "②": "업무 일시 중단, 담당자 전환 등 보호 절차를 마련한다.",
+        "③": "피해 상황을 기록하지 못하게 한다.",
+        "④": "고객 민원이 접수되면 직원의 설명을 듣지 않고 징계한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "근로자 보호",
+      "concept": "고객응대직원에 대한 보호조치",
+      "keywords": [
+        "고객응대직원",
+        "업무 중단",
+        "보호조치"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-10",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 10,
+      "questionText": "[합성 데모] 보험상품의 기초서류와 가장 거리가 먼 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품의 기초서류와 가장 거리가 먼 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험약관",
+        "②": "사업방법서",
+        "③": "보험료 및 책임준비금 산출방법서",
+        "④": "회사 창립기념 행사 포스터"
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험상품",
+      "concept": "기초서류",
+      "keywords": [
+        "기초서류",
+        "보험약관",
+        "산출방법서"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-11",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 11,
+      "questionText": "[합성 데모] 보험회사에 재무건전성 기준을 두는 가장 중요한 이유는?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사에 재무건전성 기준을 두는 가장 중요한 이유는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "장래 보험금 지급 의무를 안정적으로 이행하도록 하기 위해서",
+        "②": "모든 보험회사의 광고 문구를 같게 만들기 위해서",
+        "③": "보험계약자가 손해사정을 직접 하지 못하게 하기 위해서",
+        "④": "보험모집인의 수를 매년 동일하게 유지하기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험회사 경영",
+      "concept": "재무건전성 기준",
+      "keywords": [
+        "재무건전성",
+        "지급능력",
+        "계약자 보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-12",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 12,
+      "questionText": "[합성 데모] 책임준비금의 성격을 가장 적절하게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 책임준비금의 성격을 가장 적절하게 설명한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "임직원 복지를 위해 자유롭게 쓰는 예산이다.",
+        "②": "광고비를 다음 회계연도로 넘긴 금액이다.",
+        "③": "장래의 보험금 등 계약상 의무에 대비하여 적립하는 금액이다.",
+        "④": "보험모집인이 개인적으로 보관하는 계약 수수료다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험회사 경영",
+      "concept": "책임준비금",
+      "keywords": [
+        "책임준비금",
+        "보험부채",
+        "장래 지급"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-13",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 13,
+      "questionText": "[합성 데모] 보험상품 공시가 소비자에게 제공하는 핵심 기능은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품 공시가 소비자에게 제공하는 핵심 기능은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험사고의 원인을 자동으로 확정한다.",
+        "②": "상품의 주요 조건을 확인하고 비교할 수 있게 한다.",
+        "③": "법원의 재판 절차를 대신한다.",
+        "④": "계약자가 낸 보험료를 즉시 반환한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "계약자 보호",
+      "concept": "보험상품 공시",
+      "keywords": [
+        "공시",
+        "상품 비교",
+        "정보 제공"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-14",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 14,
+      "questionText": "[합성 데모] 보험회사에 대한 감독과 검사의 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사에 대한 감독과 검사의 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사는 허가를 받은 뒤에는 어떠한 감독도 받지 않는다.",
+        "②": "검사는 오직 보험계약자의 개인 요청이 있을 때만 가능하다.",
+        "③": "감독기관은 법령 준수와 건전한 경영 여부를 확인할 수 있다.",
+        "④": "감독 결과는 보험회사 스스로만 결정한다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "감독·제재",
+      "concept": "검사·감독",
+      "keywords": [
+        "감독",
+        "검사",
+        "법령 준수"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-15",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 15,
+      "questionText": "[합성 데모] 보험회사의 자산운용에서 위험 집중을 줄이려는 취지와 가장 가까운 행동은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사의 자산운용에서 위험 집중을 줄이려는 취지와 가장 가까운 행동은?",
+        "context": {
+          "label": "사례",
+          "text": "한 보험회사가 운용자산 대부분을 하나의 계열회사에 투자하려 한다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "투자대상을 분산하고 거래 조건을 객관적으로 검토한다.",
+        "②": "계열회사 거래이므로 심사를 생략한다.",
+        "③": "투자 위험을 계약자에게 알리지 않는다.",
+        "④": "수익률이 높아 보이면 유동성과 건전성은 고려하지 않는다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험회사 경영",
+      "concept": "자산운용의 제한",
+      "keywords": [
+        "자산운용",
+        "위험 분산",
+        "대주주 거래"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-16",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 16,
+      "questionText": "[합성 데모] 보험계약 이전 절차에서 계약자 보호를 고려해야 하는 이유는?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약 이전 절차에서 계약자 보호를 고려해야 하는 이유는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "이전과 동시에 모든 사고 기록이 삭제되기 때문에",
+        "②": "계약 상대방이 바뀌더라도 기존 보장과 권리가 안정적으로 이어져야 하기 때문에",
+        "③": "이전 후에는 보험료를 받을 수 없기 때문에",
+        "④": "계약자가 자동으로 보험회사의 주주가 되기 때문에"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "계약자 보호",
+      "concept": "보험계약의 이전",
+      "keywords": [
+        "계약이전",
+        "권리 보호",
+        "보장 연속성"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-17",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 17,
+      "questionText": "[합성 데모] 보험회사의 겸영업무와 부수업무에 관한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사의 겸영업무와 부수업무에 관한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사는 보험업과 무관한 모든 사업을 제한 없이 할 수 있다.",
+        "②": "업무의 성격과 위험에 관계없이 내부 결정만으로 시작할 수 있다.",
+        "③": "법에서 허용한 범위와 필요한 절차를 확인하여 수행해야 한다.",
+        "④": "부수업무를 시작하면 보험업 허가는 자동으로 소멸한다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험회사 업무",
+      "concept": "겸영업무·부수업무",
+      "keywords": [
+        "겸영업무",
+        "부수업무",
+        "업무범위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-18",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 18,
+      "questionText": "[합성 데모] 보험대리점과 보험중개사를 구분할 때 가장 유용한 기준은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험대리점과 보험중개사를 구분할 때 가장 유용한 기준은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "사무실의 크기",
+        "②": "누구를 위하여 어떤 지위에서 계약 체결을 돕는지",
+        "③": "광고에 사용하는 색상",
+        "④": "종사자의 출생 지역"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험모집",
+      "concept": "보험대리점·보험중개사",
+      "keywords": [
+        "보험대리점",
+        "보험중개사",
+        "법적 지위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-19",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 19,
+      "questionText": "[합성 데모] 보험관계단체의 일반적인 기능으로 보기 어려운 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험관계단체의 일반적인 기능으로 보기 어려운 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험산업 관련 정보와 통계의 지원",
+        "②": "건전한 모집질서를 위한 공동 업무",
+        "③": "보험제도 발전을 위한 조사와 연구",
+        "④": "개별 민사분쟁에 대해 법원을 대신한 확정판결 선고"
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험관계단체",
+      "concept": "보험관계단체",
+      "keywords": [
+        "보험협회",
+        "보험개발원",
+        "산업 지원"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-20",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 20,
+      "questionText": "[합성 데모] 보험개발원의 업무와 가장 관련이 깊은 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험개발원의 업무와 가장 관련이 깊은 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험요율 산출을 위한 통계와 제도 연구 지원",
+        "②": "모든 교통사고의 형사처벌 결정",
+        "③": "개별 보험회사의 대표이사 선임",
+        "④": "법원의 손해배상 판결 집행"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험관계단체",
+      "concept": "보험개발원",
+      "keywords": [
+        "보험개발원",
+        "보험통계",
+        "요율산출"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-21",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 21,
+      "questionText": "[합성 데모] 보험계리사와 손해사정사의 업무를 바르게 연결한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계리사와 손해사정사의 업무를 바르게 연결한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험계리사-사고 현장 수사, 손해사정사-법률 제정",
+        "②": "보험계리사-보험 모집, 손해사정사-회사 회계감사",
+        "③": "보험계리사-보험수리와 책임준비금 검토, 손해사정사-손해액과 보험금 사정",
+        "④": "보험계리사-형사판결, 손해사정사-보험업 허가"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험전문인",
+      "concept": "보험계리사·손해사정사",
+      "keywords": [
+        "보험계리사",
+        "손해사정사",
+        "전문업무"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-22",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 22,
+      "questionText": "[합성 데모] 보험상품 광고에서 가장 주의해야 할 표현은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품 광고에서 가장 주의해야 할 표현은?",
+        "context": {
+          "label": "사례",
+          "text": "어떤 경우에도 보험금이 지급됩니다. 예외는 확인할 필요가 없습니다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "상품명을 표시한 부분",
+        "②": "중요한 제한을 숨기고 보장이 확정적인 것처럼 오인하게 하는 부분",
+        "③": "회사 연락처를 표시한 부분",
+        "④": "약관 확인을 권한 부분"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험모집",
+      "concept": "보험상품 광고",
+      "keywords": [
+        "보험광고",
+        "오인 가능성",
+        "중요 제한"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-23",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 23,
+      "questionText": "[합성 데모] 보험업의 허가 제도를 설명한 내용으로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험업의 허가 제도를 설명한 내용으로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "회사 이름에 보험이라는 단어가 없으면 허가 없이 보험업을 할 수 있다.",
+        "②": "보험업을 영위하려면 법에서 정한 절차에 따라 해당 보험종목의 허가를 받아야 한다.",
+        "③": "온라인으로만 계약을 체결하면 보험업 허가가 면제된다.",
+        "④": "보험료를 받지 않는 첫해에는 허가 없이 영업할 수 있다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험업 진입",
+      "concept": "보험업의 허가",
+      "keywords": [
+        "보험업 허가",
+        "보험종목",
+        "진입규제"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-24",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 24,
+      "questionText": "[합성 데모] 보험중개사의 역할을 가장 정확하게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험중개사의 역할을 가장 정확하게 설명한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사의 임직원으로서 보험금 지급 여부를 최종 결정한다.",
+        "②": "보험회사를 대신하여 모든 보험료율을 인가한다.",
+        "③": "보험계약 체결을 중개하며 계약 당사자에게 필요한 정보를 제공한다.",
+        "④": "보험사고가 발생한 뒤 법원의 판결을 대신 작성한다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험모집",
+      "concept": "보험중개사",
+      "keywords": [
+        "보험중개사",
+        "모집종사자",
+        "계약 중개"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-25",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 25,
+      "questionText": "[합성 데모] 보험계약 모집 과정에서 특별이익 제공 제한과 가장 직접적으로 관련된 사례는?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약 모집 과정에서 특별이익 제공 제한과 가장 직접적으로 관련된 사례는?",
+        "context": {
+          "label": "사례",
+          "text": "모집인 네 명이 신규 계약자에게 서로 다른 혜택을 제안했다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보장 제외사항을 설명하고 확인을 받았다.",
+        "②": "공식 상품설명서의 비교표를 제공했다.",
+        "③": "청약철회 절차를 서면으로 안내했다.",
+        "④": "계약 체결을 조건으로 허용 범위를 벗어난 현금을 지급하겠다고 약속했다."
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험모집",
+      "concept": "특별이익의 제공 금지",
+      "keywords": [
+        "특별이익",
+        "모집질서",
+        "소비자보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-26",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 26,
+      "questionText": "[합성 데모] 보험상품의 중요 내용을 설명하는 절차의 주된 목적은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품의 중요 내용을 설명하는 절차의 주된 목적은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "소비자가 보장내용과 주요 제한을 이해한 상태에서 계약을 판단하도록 돕는 것",
+        "②": "모든 상품의 보험료를 동일하게 만드는 것",
+        "③": "보험사고 발생 후에만 약관을 제공하는 것",
+        "④": "계약자의 질문을 보험회사 내부 기록에서 제외하는 것"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험모집",
+      "concept": "설명의무",
+      "keywords": [
+        "설명의무",
+        "중요사항",
+        "소비자 이해"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-27",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 27,
+      "questionText": "[합성 데모] 고객의 폭언으로부터 고객응대직원을 보호하기 위한 조치로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 고객의 폭언으로부터 고객응대직원을 보호하기 위한 조치로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "직원에게 모든 상황을 혼자 해결하도록 요구한다.",
+        "②": "업무 일시 중단, 담당자 전환 등 보호 절차를 마련한다.",
+        "③": "피해 상황을 기록하지 못하게 한다.",
+        "④": "고객 민원이 접수되면 직원의 설명을 듣지 않고 징계한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "근로자 보호",
+      "concept": "고객응대직원에 대한 보호조치",
+      "keywords": [
+        "고객응대직원",
+        "업무 중단",
+        "보호조치"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-28",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 28,
+      "questionText": "[합성 데모] 보험상품의 기초서류와 가장 거리가 먼 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품의 기초서류와 가장 거리가 먼 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험약관",
+        "②": "사업방법서",
+        "③": "보험료 및 책임준비금 산출방법서",
+        "④": "회사 창립기념 행사 포스터"
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험상품",
+      "concept": "기초서류",
+      "keywords": [
+        "기초서류",
+        "보험약관",
+        "산출방법서"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-29",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 29,
+      "questionText": "[합성 데모] 보험회사에 재무건전성 기준을 두는 가장 중요한 이유는?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사에 재무건전성 기준을 두는 가장 중요한 이유는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "장래 보험금 지급 의무를 안정적으로 이행하도록 하기 위해서",
+        "②": "모든 보험회사의 광고 문구를 같게 만들기 위해서",
+        "③": "보험계약자가 손해사정을 직접 하지 못하게 하기 위해서",
+        "④": "보험모집인의 수를 매년 동일하게 유지하기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험회사 경영",
+      "concept": "재무건전성 기준",
+      "keywords": [
+        "재무건전성",
+        "지급능력",
+        "계약자 보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-30",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 30,
+      "questionText": "[합성 데모] 책임준비금의 성격을 가장 적절하게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 책임준비금의 성격을 가장 적절하게 설명한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "임직원 복지를 위해 자유롭게 쓰는 예산이다.",
+        "②": "광고비를 다음 회계연도로 넘긴 금액이다.",
+        "③": "장래의 보험금 등 계약상 의무에 대비하여 적립하는 금액이다.",
+        "④": "보험모집인이 개인적으로 보관하는 계약 수수료다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험회사 경영",
+      "concept": "책임준비금",
+      "keywords": [
+        "책임준비금",
+        "보험부채",
+        "장래 지급"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-31",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 31,
+      "questionText": "[합성 데모] 보험상품 공시가 소비자에게 제공하는 핵심 기능은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품 공시가 소비자에게 제공하는 핵심 기능은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험사고의 원인을 자동으로 확정한다.",
+        "②": "상품의 주요 조건을 확인하고 비교할 수 있게 한다.",
+        "③": "법원의 재판 절차를 대신한다.",
+        "④": "계약자가 낸 보험료를 즉시 반환한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "계약자 보호",
+      "concept": "보험상품 공시",
+      "keywords": [
+        "공시",
+        "상품 비교",
+        "정보 제공"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-32",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 32,
+      "questionText": "[합성 데모] 보험회사에 대한 감독과 검사의 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사에 대한 감독과 검사의 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사는 허가를 받은 뒤에는 어떠한 감독도 받지 않는다.",
+        "②": "검사는 오직 보험계약자의 개인 요청이 있을 때만 가능하다.",
+        "③": "감독기관은 법령 준수와 건전한 경영 여부를 확인할 수 있다.",
+        "④": "감독 결과는 보험회사 스스로만 결정한다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "감독·제재",
+      "concept": "검사·감독",
+      "keywords": [
+        "감독",
+        "검사",
+        "법령 준수"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-33",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 33,
+      "questionText": "[합성 데모] 보험회사의 자산운용에서 위험 집중을 줄이려는 취지와 가장 가까운 행동은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사의 자산운용에서 위험 집중을 줄이려는 취지와 가장 가까운 행동은?",
+        "context": {
+          "label": "사례",
+          "text": "한 보험회사가 운용자산 대부분을 하나의 계열회사에 투자하려 한다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "투자대상을 분산하고 거래 조건을 객관적으로 검토한다.",
+        "②": "계열회사 거래이므로 심사를 생략한다.",
+        "③": "투자 위험을 계약자에게 알리지 않는다.",
+        "④": "수익률이 높아 보이면 유동성과 건전성은 고려하지 않는다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험회사 경영",
+      "concept": "자산운용의 제한",
+      "keywords": [
+        "자산운용",
+        "위험 분산",
+        "대주주 거래"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-34",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 34,
+      "questionText": "[합성 데모] 보험계약 이전 절차에서 계약자 보호를 고려해야 하는 이유는?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약 이전 절차에서 계약자 보호를 고려해야 하는 이유는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "이전과 동시에 모든 사고 기록이 삭제되기 때문에",
+        "②": "계약 상대방이 바뀌더라도 기존 보장과 권리가 안정적으로 이어져야 하기 때문에",
+        "③": "이전 후에는 보험료를 받을 수 없기 때문에",
+        "④": "계약자가 자동으로 보험회사의 주주가 되기 때문에"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "계약자 보호",
+      "concept": "보험계약의 이전",
+      "keywords": [
+        "계약이전",
+        "권리 보호",
+        "보장 연속성"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-35",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 35,
+      "questionText": "[합성 데모] 보험회사의 겸영업무와 부수업무에 관한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험회사의 겸영업무와 부수업무에 관한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사는 보험업과 무관한 모든 사업을 제한 없이 할 수 있다.",
+        "②": "업무의 성격과 위험에 관계없이 내부 결정만으로 시작할 수 있다.",
+        "③": "법에서 허용한 범위와 필요한 절차를 확인하여 수행해야 한다.",
+        "④": "부수업무를 시작하면 보험업 허가는 자동으로 소멸한다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험회사 업무",
+      "concept": "겸영업무·부수업무",
+      "keywords": [
+        "겸영업무",
+        "부수업무",
+        "업무범위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-36",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 36,
+      "questionText": "[합성 데모] 보험대리점과 보험중개사를 구분할 때 가장 유용한 기준은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험대리점과 보험중개사를 구분할 때 가장 유용한 기준은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "사무실의 크기",
+        "②": "누구를 위하여 어떤 지위에서 계약 체결을 돕는지",
+        "③": "광고에 사용하는 색상",
+        "④": "종사자의 출생 지역"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험모집",
+      "concept": "보험대리점·보험중개사",
+      "keywords": [
+        "보험대리점",
+        "보험중개사",
+        "법적 지위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-37",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 37,
+      "questionText": "[합성 데모] 보험관계단체의 일반적인 기능으로 보기 어려운 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험관계단체의 일반적인 기능으로 보기 어려운 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험산업 관련 정보와 통계의 지원",
+        "②": "건전한 모집질서를 위한 공동 업무",
+        "③": "보험제도 발전을 위한 조사와 연구",
+        "④": "개별 민사분쟁에 대해 법원을 대신한 확정판결 선고"
+      },
+      "answer": "④",
+      "acceptedAnswers": [
+        "④"
+      ],
+      "domain": "보험관계단체",
+      "concept": "보험관계단체",
+      "keywords": [
+        "보험협회",
+        "보험개발원",
+        "산업 지원"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-38",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 38,
+      "questionText": "[합성 데모] 보험개발원의 업무와 가장 관련이 깊은 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험개발원의 업무와 가장 관련이 깊은 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험요율 산출을 위한 통계와 제도 연구 지원",
+        "②": "모든 교통사고의 형사처벌 결정",
+        "③": "개별 보험회사의 대표이사 선임",
+        "④": "법원의 손해배상 판결 집행"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험관계단체",
+      "concept": "보험개발원",
+      "keywords": [
+        "보험개발원",
+        "보험통계",
+        "요율산출"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-39",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 39,
+      "questionText": "[합성 데모] 보험계리사와 손해사정사의 업무를 바르게 연결한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계리사와 손해사정사의 업무를 바르게 연결한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험계리사-사고 현장 수사, 손해사정사-법률 제정",
+        "②": "보험계리사-보험 모집, 손해사정사-회사 회계감사",
+        "③": "보험계리사-보험수리와 책임준비금 검토, 손해사정사-손해액과 보험금 사정",
+        "④": "보험계리사-형사판결, 손해사정사-보험업 허가"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험전문인",
+      "concept": "보험계리사·손해사정사",
+      "keywords": [
+        "보험계리사",
+        "손해사정사",
+        "전문업무"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-BIZ-40",
+      "round": 48,
+      "subject": "보험업법",
+      "subjectCode": "BIZ",
+      "questionNo": 40,
+      "questionText": "[합성 데모] 보험상품 광고에서 가장 주의해야 할 표현은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험상품 광고에서 가장 주의해야 할 표현은?",
+        "context": {
+          "label": "사례",
+          "text": "어떤 경우에도 보험금이 지급됩니다. 예외는 확인할 필요가 없습니다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "상품명을 표시한 부분",
+        "②": "중요한 제한을 숨기고 보장이 확정적인 것처럼 오인하게 하는 부분",
+        "③": "회사 연락처를 표시한 부분",
+        "④": "약관 확인을 권한 부분"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험모집",
+      "concept": "보험상품 광고",
+      "keywords": [
+        "보험광고",
+        "오인 가능성",
+        "중요 제한"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-BIZ-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-01",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 1,
+      "questionText": "[합성 데모] 책임보험에서 피해자의 직접청구권이 갖는 의미로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 책임보험에서 피해자의 직접청구권이 갖는 의미로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "피해자가 일정한 범위에서 보험자에게 직접 보상을 청구할 수 있게 한다.",
+        "②": "피해자가 보험회사의 주식을 자동으로 취득한다.",
+        "③": "가해자의 모든 형사책임을 없앤다.",
+        "④": "보험계약이 없어도 언제나 보험금을 지급하게 한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "피해자의 직접청구권",
+      "keywords": [
+        "책임보험",
+        "직접청구권",
+        "피해자 보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-02",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 2,
+      "questionText": "[합성 데모] 보험계약자와 보험수익자가 서로 다른 계약에 대한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약자와 보험수익자가 서로 다른 계약에 대한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "두 사람은 법적으로 언제나 동일해야 한다.",
+        "②": "계약자가 계약을 체결하고 다른 사람을 보험수익자로 지정할 수 있다.",
+        "③": "보험수익자는 보험금과 아무 관련이 없다.",
+        "④": "계약자가 다르면 보험계약은 자동으로 무효다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 관계자",
+      "concept": "타인을 위한 보험계약",
+      "keywords": [
+        "보험계약자",
+        "보험수익자",
+        "타인을 위한 보험"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-03",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 3,
+      "questionText": "[합성 데모] 화재보험에서 보상 여부를 판단할 때 가장 먼저 확인할 조합은?",
+      "presentation": {
+        "prompt": "[합성 데모] 화재보험에서 보상 여부를 판단할 때 가장 먼저 확인할 조합은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "담보하는 위험, 보험목적, 발생한 손해 사이의 관계",
+        "②": "계약자의 취미와 출신학교",
+        "③": "보험회사 광고모델의 인지도",
+        "④": "건물 인근 식당의 매출"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "화재보험자의 보상책임",
+      "keywords": [
+        "화재보험",
+        "담보위험",
+        "보험목적"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-04",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 4,
+      "questionText": "[합성 데모] 계약 체결 후 위험이 현저하게 증가한 경우 통지의무를 두는 취지는?",
+      "presentation": {
+        "prompt": "[합성 데모] 계약 체결 후 위험이 현저하게 증가한 경우 통지의무를 두는 취지는?",
+        "context": {
+          "label": "사례",
+          "text": "창고의 사용 목적이 일반 보관에서 인화성 물질 보관으로 바뀌었다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자가 변경된 위험을 평가하고 계약 관계를 조정할 기회를 갖게 하기 위해서",
+        "②": "계약자가 사고를 숨길 수 있게 하기 위해서",
+        "③": "보험기간을 자동으로 무기한 연장하기 위해서",
+        "④": "보험증권을 광고물로 바꾸기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "계약 전후 의무",
+      "concept": "위험의 현저한 변경·증가와 통지의무",
+      "keywords": [
+        "통지의무",
+        "위험 증가",
+        "계약 조정"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-05",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 5,
+      "questionText": "[합성 데모] 보험계약 체결 전 고지의무의 취지로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약 체결 전 고지의무의 취지로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자가 위험을 평가하고 인수 조건을 정할 수 있도록 중요한 사실을 알리는 것",
+        "②": "보험사고가 난 뒤 손해액을 임의로 늘리는 것",
+        "③": "보험료 납부를 영구히 면제받는 것",
+        "④": "계약자가 보험약관을 직접 제정하는 것"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "계약 전후 의무",
+      "concept": "고지의무",
+      "keywords": [
+        "고지의무",
+        "중요한 사실",
+        "위험평가"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-06",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 6,
+      "questionText": "[합성 데모] 보험증권의 기능을 가장 적절하게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험증권의 기능을 가장 적절하게 설명한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험계약과 무관한 회사 내부 메모다.",
+        "②": "보험사고 발생을 보증하는 국가 문서다.",
+        "③": "계약의 주요 내용을 확인하는 증거자료로 활용될 수 있다.",
+        "④": "보험료를 대신하는 유가증권이다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험계약 성립",
+      "concept": "보험증권",
+      "keywords": [
+        "보험증권",
+        "계약 내용",
+        "증거"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-07",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 7,
+      "questionText": "[합성 데모] 보험기간과 보험료 납입기간을 구분한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험기간과 보험료 납입기간을 구분한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "두 기간은 모든 보험계약에서 반드시 동일하다.",
+        "②": "보험기간은 위험을 보장하는 기간이고, 납입기간은 보험료를 내도록 정한 기간이다.",
+        "③": "보험기간은 계약자의 나이를 의미한다.",
+        "④": "납입기간은 보험금 청구 후에만 시작한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 효력",
+      "concept": "보험기간·보험료 납입기간",
+      "keywords": [
+        "보험기간",
+        "보험료 납입기간",
+        "보장기간"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-08",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 8,
+      "questionText": "[합성 데모] 최초 보험료와 보험자의 책임 개시를 확인할 때 우선 살펴볼 사항은?",
+      "presentation": {
+        "prompt": "[합성 데모] 최초 보험료와 보험자의 책임 개시를 확인할 때 우선 살펴볼 사항은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "계약에서 정한 책임 개시 조건과 보험료 지급 여부",
+        "②": "보험회사 건물의 준공일",
+        "③": "모집인의 출퇴근 시간",
+        "④": "계약자 가족의 모든 소비 내역"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험계약 효력",
+      "concept": "보험자의 책임개시",
+      "keywords": [
+        "최초 보험료",
+        "책임 개시",
+        "계약 조건"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-09",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 9,
+      "questionText": "[합성 데모] 보험수익자의 의미로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험수익자의 의미로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사의 매출을 계산하는 회계담당자",
+        "②": "보험사고 발생 시 계약에 따라 보험금을 받을 사람",
+        "③": "항상 보험료를 직접 납부한 사람",
+        "④": "보험상품을 광고한 사람"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 관계자",
+      "concept": "보험수익자",
+      "keywords": [
+        "보험수익자",
+        "보험금",
+        "계약 관계자"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-10",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 10,
+      "questionText": "[합성 데모] 보험금청구권의 소멸시효를 공부하는 이유로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험금청구권의 소멸시효를 공부하는 이유로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "권리를 행사할 수 있는 기간의 제한을 놓치지 않기 위해서",
+        "②": "보험료를 원하는 금액으로 변경하기 위해서",
+        "③": "보험사고 발생일을 삭제하기 위해서",
+        "④": "보험계약의 당사자를 자동으로 바꾸기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험금",
+      "concept": "보험금청구권의 소멸시효",
+      "keywords": [
+        "보험금청구권",
+        "소멸시효",
+        "권리 행사"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-11",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 11,
+      "questionText": "[합성 데모] 손해보험에서 실손보상 원칙이 지향하는 결과는?",
+      "presentation": {
+        "prompt": "[합성 데모] 손해보험에서 실손보상 원칙이 지향하는 결과는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "실제 손해와 관계없이 언제나 보험금액 전부를 지급한다.",
+        "②": "보험사고로 생긴 경제적 손해를 보상하되 이득을 얻게 하지 않는다.",
+        "③": "손해가 없을수록 더 많은 보험금을 지급한다.",
+        "④": "보험계약자가 보험자의 자산을 공동 소유하게 한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "손해보험",
+      "concept": "실손보상의 원칙",
+      "keywords": [
+        "실손보상",
+        "이득금지",
+        "경제적 손해"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-12",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 12,
+      "questionText": "[합성 데모] 손해보험에서 피보험이익을 요구하는 취지와 가장 가까운 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 손해보험에서 피보험이익을 요구하는 취지와 가장 가까운 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험사고와 무관한 사람이 손해 없이 이익만 얻는 계약을 막기 위해서",
+        "②": "모든 보험료를 같은 금액으로 만들기 위해서",
+        "③": "보험회사의 광고비를 줄이기 위해서",
+        "④": "보험기간을 무기한으로 연장하기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "피보험이익",
+      "keywords": [
+        "피보험이익",
+        "경제적 이해관계",
+        "이득금지"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-13",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 13,
+      "questionText": "[합성 데모] 초과보험 여부를 판단하기 위해 비교해야 하는 두 금액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 초과보험 여부를 판단하기 위해 비교해야 하는 두 금액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험료와 모집수수료",
+        "②": "보험금액과 보험가액",
+        "③": "회사 자본금과 광고비",
+        "④": "계약자 나이와 보험기간"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "손해보험",
+      "concept": "초과보험",
+      "keywords": [
+        "초과보험",
+        "보험금액",
+        "보험가액"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-14",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 14,
+      "questionText": "[합성 데모] 동일한 이익과 동일한 위험에 관해 여러 손해보험계약이 존재하는 상태를 무엇이라 하는가?",
+      "presentation": {
+        "prompt": "[합성 데모] 동일한 이익과 동일한 위험에 관해 여러 손해보험계약이 존재하는 상태를 무엇이라 하는가?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "중복보험",
+        "②": "소급보험",
+        "③": "타인을 위한 보험",
+        "④": "단체보험"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "중복보험",
+      "keywords": [
+        "중복보험",
+        "동일 위험",
+        "다수 계약"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-15",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 15,
+      "questionText": "[합성 데모] 보험자대위가 적용되는 상황을 가장 잘 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험자대위가 적용되는 상황을 가장 잘 설명한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "제3자의 과실로 창고가 파손되었고 보험자가 피보험자에게 해당 손해의 보험금을 지급했다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자는 지급한 범위에서 피보험자의 제3자에 대한 권리를 취득할 수 있다.",
+        "②": "제3자는 보험금 지급과 동시에 모든 책임을 면한다.",
+        "③": "피보험자는 실제 손해의 두 배를 보상받아야 한다.",
+        "④": "보험자는 사고와 무관한 계약자의 재산을 취득한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "보험자대위",
+      "keywords": [
+        "보험자대위",
+        "제3자",
+        "구상"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-16",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 16,
+      "questionText": "[합성 데모] 보험사고 발생 후 손해 확대를 막기 위한 행동으로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험사고 발생 후 손해 확대를 막기 위한 행동으로 가장 적절한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "배관이 파열되어 매장 바닥으로 물이 계속 흘러나오고 있다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "추가 손해가 커지도록 아무 조치도 하지 않는다.",
+        "②": "안전을 확보한 뒤 급수를 차단하고 피해 물품을 옮긴다.",
+        "③": "사고 흔적을 없애기 위해 모든 자료를 폐기한다.",
+        "④": "보험금이 확정될 때까지 관계 기관에 알리지 않는다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "손해보험",
+      "concept": "손해방지의무",
+      "keywords": [
+        "손해방지",
+        "손해 확대",
+        "사고 대응"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-17",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 17,
+      "questionText": "[합성 데모] 타인의 사망을 보험사고로 하는 생명보험에서 피보험자의 동의를 중시하는 이유는?",
+      "presentation": {
+        "prompt": "[합성 데모] 타인의 사망을 보험사고로 하는 생명보험에서 피보험자의 동의를 중시하는 이유는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험료를 국가가 대신 내기 때문에",
+        "②": "타인의 생명에 관한 계약의 도덕적 위험과 인격적 이익을 보호하기 위해서",
+        "③": "모든 생명보험을 손해보험으로 바꾸기 위해서",
+        "④": "보험회사의 설립일을 확인하기 위해서"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "인보험",
+      "concept": "타인의 생명보험계약",
+      "keywords": [
+        "타인의 생명",
+        "피보험자 동의",
+        "인격적 이익"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-18",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 18,
+      "questionText": "[합성 데모] 상해보험에서 사고의 우연성을 검토할 때 중심이 되는 요소는?",
+      "presentation": {
+        "prompt": "[합성 데모] 상해보험에서 사고의 우연성을 검토할 때 중심이 되는 요소는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "사고가 피보험자의 관점에서 예측하거나 의도한 결과인지 여부",
+        "②": "보험회사 사무실의 위치",
+        "③": "계약서의 종이 크기",
+        "④": "보험모집인의 근속연수"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "인보험",
+      "concept": "상해보험사고의 우연성",
+      "keywords": [
+        "상해보험",
+        "우연성",
+        "보험사고"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-19",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 19,
+      "questionText": "[합성 데모] 책임보험에서 피해자의 직접청구권이 갖는 의미로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 책임보험에서 피해자의 직접청구권이 갖는 의미로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "피해자가 일정한 범위에서 보험자에게 직접 보상을 청구할 수 있게 한다.",
+        "②": "피해자가 보험회사의 주식을 자동으로 취득한다.",
+        "③": "가해자의 모든 형사책임을 없앤다.",
+        "④": "보험계약이 없어도 언제나 보험금을 지급하게 한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "피해자의 직접청구권",
+      "keywords": [
+        "책임보험",
+        "직접청구권",
+        "피해자 보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-20",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 20,
+      "questionText": "[합성 데모] 보험계약자와 보험수익자가 서로 다른 계약에 대한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약자와 보험수익자가 서로 다른 계약에 대한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "두 사람은 법적으로 언제나 동일해야 한다.",
+        "②": "계약자가 계약을 체결하고 다른 사람을 보험수익자로 지정할 수 있다.",
+        "③": "보험수익자는 보험금과 아무 관련이 없다.",
+        "④": "계약자가 다르면 보험계약은 자동으로 무효다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 관계자",
+      "concept": "타인을 위한 보험계약",
+      "keywords": [
+        "보험계약자",
+        "보험수익자",
+        "타인을 위한 보험"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-21",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 21,
+      "questionText": "[합성 데모] 화재보험에서 보상 여부를 판단할 때 가장 먼저 확인할 조합은?",
+      "presentation": {
+        "prompt": "[합성 데모] 화재보험에서 보상 여부를 판단할 때 가장 먼저 확인할 조합은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "담보하는 위험, 보험목적, 발생한 손해 사이의 관계",
+        "②": "계약자의 취미와 출신학교",
+        "③": "보험회사 광고모델의 인지도",
+        "④": "건물 인근 식당의 매출"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "화재보험자의 보상책임",
+      "keywords": [
+        "화재보험",
+        "담보위험",
+        "보험목적"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-22",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 22,
+      "questionText": "[합성 데모] 계약 체결 후 위험이 현저하게 증가한 경우 통지의무를 두는 취지는?",
+      "presentation": {
+        "prompt": "[합성 데모] 계약 체결 후 위험이 현저하게 증가한 경우 통지의무를 두는 취지는?",
+        "context": {
+          "label": "사례",
+          "text": "창고의 사용 목적이 일반 보관에서 인화성 물질 보관으로 바뀌었다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자가 변경된 위험을 평가하고 계약 관계를 조정할 기회를 갖게 하기 위해서",
+        "②": "계약자가 사고를 숨길 수 있게 하기 위해서",
+        "③": "보험기간을 자동으로 무기한 연장하기 위해서",
+        "④": "보험증권을 광고물로 바꾸기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "계약 전후 의무",
+      "concept": "위험의 현저한 변경·증가와 통지의무",
+      "keywords": [
+        "통지의무",
+        "위험 증가",
+        "계약 조정"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-23",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 23,
+      "questionText": "[합성 데모] 보험계약 체결 전 고지의무의 취지로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약 체결 전 고지의무의 취지로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자가 위험을 평가하고 인수 조건을 정할 수 있도록 중요한 사실을 알리는 것",
+        "②": "보험사고가 난 뒤 손해액을 임의로 늘리는 것",
+        "③": "보험료 납부를 영구히 면제받는 것",
+        "④": "계약자가 보험약관을 직접 제정하는 것"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "계약 전후 의무",
+      "concept": "고지의무",
+      "keywords": [
+        "고지의무",
+        "중요한 사실",
+        "위험평가"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-24",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 24,
+      "questionText": "[합성 데모] 보험증권의 기능을 가장 적절하게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험증권의 기능을 가장 적절하게 설명한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험계약과 무관한 회사 내부 메모다.",
+        "②": "보험사고 발생을 보증하는 국가 문서다.",
+        "③": "계약의 주요 내용을 확인하는 증거자료로 활용될 수 있다.",
+        "④": "보험료를 대신하는 유가증권이다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험계약 성립",
+      "concept": "보험증권",
+      "keywords": [
+        "보험증권",
+        "계약 내용",
+        "증거"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-25",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 25,
+      "questionText": "[합성 데모] 보험기간과 보험료 납입기간을 구분한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험기간과 보험료 납입기간을 구분한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "두 기간은 모든 보험계약에서 반드시 동일하다.",
+        "②": "보험기간은 위험을 보장하는 기간이고, 납입기간은 보험료를 내도록 정한 기간이다.",
+        "③": "보험기간은 계약자의 나이를 의미한다.",
+        "④": "납입기간은 보험금 청구 후에만 시작한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 효력",
+      "concept": "보험기간·보험료 납입기간",
+      "keywords": [
+        "보험기간",
+        "보험료 납입기간",
+        "보장기간"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-26",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 26,
+      "questionText": "[합성 데모] 최초 보험료와 보험자의 책임 개시를 확인할 때 우선 살펴볼 사항은?",
+      "presentation": {
+        "prompt": "[합성 데모] 최초 보험료와 보험자의 책임 개시를 확인할 때 우선 살펴볼 사항은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "계약에서 정한 책임 개시 조건과 보험료 지급 여부",
+        "②": "보험회사 건물의 준공일",
+        "③": "모집인의 출퇴근 시간",
+        "④": "계약자 가족의 모든 소비 내역"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험계약 효력",
+      "concept": "보험자의 책임개시",
+      "keywords": [
+        "최초 보험료",
+        "책임 개시",
+        "계약 조건"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-27",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 27,
+      "questionText": "[합성 데모] 보험수익자의 의미로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험수익자의 의미로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사의 매출을 계산하는 회계담당자",
+        "②": "보험사고 발생 시 계약에 따라 보험금을 받을 사람",
+        "③": "항상 보험료를 직접 납부한 사람",
+        "④": "보험상품을 광고한 사람"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 관계자",
+      "concept": "보험수익자",
+      "keywords": [
+        "보험수익자",
+        "보험금",
+        "계약 관계자"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-28",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 28,
+      "questionText": "[합성 데모] 보험금청구권의 소멸시효를 공부하는 이유로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험금청구권의 소멸시효를 공부하는 이유로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "권리를 행사할 수 있는 기간의 제한을 놓치지 않기 위해서",
+        "②": "보험료를 원하는 금액으로 변경하기 위해서",
+        "③": "보험사고 발생일을 삭제하기 위해서",
+        "④": "보험계약의 당사자를 자동으로 바꾸기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험금",
+      "concept": "보험금청구권의 소멸시효",
+      "keywords": [
+        "보험금청구권",
+        "소멸시효",
+        "권리 행사"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-29",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 29,
+      "questionText": "[합성 데모] 손해보험에서 실손보상 원칙이 지향하는 결과는?",
+      "presentation": {
+        "prompt": "[합성 데모] 손해보험에서 실손보상 원칙이 지향하는 결과는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "실제 손해와 관계없이 언제나 보험금액 전부를 지급한다.",
+        "②": "보험사고로 생긴 경제적 손해를 보상하되 이득을 얻게 하지 않는다.",
+        "③": "손해가 없을수록 더 많은 보험금을 지급한다.",
+        "④": "보험계약자가 보험자의 자산을 공동 소유하게 한다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "손해보험",
+      "concept": "실손보상의 원칙",
+      "keywords": [
+        "실손보상",
+        "이득금지",
+        "경제적 손해"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-30",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 30,
+      "questionText": "[합성 데모] 손해보험에서 피보험이익을 요구하는 취지와 가장 가까운 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 손해보험에서 피보험이익을 요구하는 취지와 가장 가까운 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험사고와 무관한 사람이 손해 없이 이익만 얻는 계약을 막기 위해서",
+        "②": "모든 보험료를 같은 금액으로 만들기 위해서",
+        "③": "보험회사의 광고비를 줄이기 위해서",
+        "④": "보험기간을 무기한으로 연장하기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "피보험이익",
+      "keywords": [
+        "피보험이익",
+        "경제적 이해관계",
+        "이득금지"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-31",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 31,
+      "questionText": "[합성 데모] 초과보험 여부를 판단하기 위해 비교해야 하는 두 금액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 초과보험 여부를 판단하기 위해 비교해야 하는 두 금액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험료와 모집수수료",
+        "②": "보험금액과 보험가액",
+        "③": "회사 자본금과 광고비",
+        "④": "계약자 나이와 보험기간"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "손해보험",
+      "concept": "초과보험",
+      "keywords": [
+        "초과보험",
+        "보험금액",
+        "보험가액"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-32",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 32,
+      "questionText": "[합성 데모] 동일한 이익과 동일한 위험에 관해 여러 손해보험계약이 존재하는 상태를 무엇이라 하는가?",
+      "presentation": {
+        "prompt": "[합성 데모] 동일한 이익과 동일한 위험에 관해 여러 손해보험계약이 존재하는 상태를 무엇이라 하는가?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "중복보험",
+        "②": "소급보험",
+        "③": "타인을 위한 보험",
+        "④": "단체보험"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "중복보험",
+      "keywords": [
+        "중복보험",
+        "동일 위험",
+        "다수 계약"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-33",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 33,
+      "questionText": "[합성 데모] 보험자대위가 적용되는 상황을 가장 잘 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험자대위가 적용되는 상황을 가장 잘 설명한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "제3자의 과실로 창고가 파손되었고 보험자가 피보험자에게 해당 손해의 보험금을 지급했다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자는 지급한 범위에서 피보험자의 제3자에 대한 권리를 취득할 수 있다.",
+        "②": "제3자는 보험금 지급과 동시에 모든 책임을 면한다.",
+        "③": "피보험자는 실제 손해의 두 배를 보상받아야 한다.",
+        "④": "보험자는 사고와 무관한 계약자의 재산을 취득한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "보험자대위",
+      "keywords": [
+        "보험자대위",
+        "제3자",
+        "구상"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-34",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 34,
+      "questionText": "[합성 데모] 보험사고 발생 후 손해 확대를 막기 위한 행동으로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험사고 발생 후 손해 확대를 막기 위한 행동으로 가장 적절한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "배관이 파열되어 매장 바닥으로 물이 계속 흘러나오고 있다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "추가 손해가 커지도록 아무 조치도 하지 않는다.",
+        "②": "안전을 확보한 뒤 급수를 차단하고 피해 물품을 옮긴다.",
+        "③": "사고 흔적을 없애기 위해 모든 자료를 폐기한다.",
+        "④": "보험금이 확정될 때까지 관계 기관에 알리지 않는다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "손해보험",
+      "concept": "손해방지의무",
+      "keywords": [
+        "손해방지",
+        "손해 확대",
+        "사고 대응"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-35",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 35,
+      "questionText": "[합성 데모] 타인의 사망을 보험사고로 하는 생명보험에서 피보험자의 동의를 중시하는 이유는?",
+      "presentation": {
+        "prompt": "[합성 데모] 타인의 사망을 보험사고로 하는 생명보험에서 피보험자의 동의를 중시하는 이유는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험료를 국가가 대신 내기 때문에",
+        "②": "타인의 생명에 관한 계약의 도덕적 위험과 인격적 이익을 보호하기 위해서",
+        "③": "모든 생명보험을 손해보험으로 바꾸기 위해서",
+        "④": "보험회사의 설립일을 확인하기 위해서"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "인보험",
+      "concept": "타인의 생명보험계약",
+      "keywords": [
+        "타인의 생명",
+        "피보험자 동의",
+        "인격적 이익"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-36",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 36,
+      "questionText": "[합성 데모] 상해보험에서 사고의 우연성을 검토할 때 중심이 되는 요소는?",
+      "presentation": {
+        "prompt": "[합성 데모] 상해보험에서 사고의 우연성을 검토할 때 중심이 되는 요소는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "사고가 피보험자의 관점에서 예측하거나 의도한 결과인지 여부",
+        "②": "보험회사 사무실의 위치",
+        "③": "계약서의 종이 크기",
+        "④": "보험모집인의 근속연수"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "인보험",
+      "concept": "상해보험사고의 우연성",
+      "keywords": [
+        "상해보험",
+        "우연성",
+        "보험사고"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-37",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 37,
+      "questionText": "[합성 데모] 책임보험에서 피해자의 직접청구권이 갖는 의미로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 책임보험에서 피해자의 직접청구권이 갖는 의미로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "피해자가 일정한 범위에서 보험자에게 직접 보상을 청구할 수 있게 한다.",
+        "②": "피해자가 보험회사의 주식을 자동으로 취득한다.",
+        "③": "가해자의 모든 형사책임을 없앤다.",
+        "④": "보험계약이 없어도 언제나 보험금을 지급하게 한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "피해자의 직접청구권",
+      "keywords": [
+        "책임보험",
+        "직접청구권",
+        "피해자 보호"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-38",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 38,
+      "questionText": "[합성 데모] 보험계약자와 보험수익자가 서로 다른 계약에 대한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험계약자와 보험수익자가 서로 다른 계약에 대한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "두 사람은 법적으로 언제나 동일해야 한다.",
+        "②": "계약자가 계약을 체결하고 다른 사람을 보험수익자로 지정할 수 있다.",
+        "③": "보험수익자는 보험금과 아무 관련이 없다.",
+        "④": "계약자가 다르면 보험계약은 자동으로 무효다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험계약 관계자",
+      "concept": "타인을 위한 보험계약",
+      "keywords": [
+        "보험계약자",
+        "보험수익자",
+        "타인을 위한 보험"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-39",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 39,
+      "questionText": "[합성 데모] 화재보험에서 보상 여부를 판단할 때 가장 먼저 확인할 조합은?",
+      "presentation": {
+        "prompt": "[합성 데모] 화재보험에서 보상 여부를 판단할 때 가장 먼저 확인할 조합은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "담보하는 위험, 보험목적, 발생한 손해 사이의 관계",
+        "②": "계약자의 취미와 출신학교",
+        "③": "보험회사 광고모델의 인지도",
+        "④": "건물 인근 식당의 매출"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "손해보험",
+      "concept": "화재보험자의 보상책임",
+      "keywords": [
+        "화재보험",
+        "담보위험",
+        "보험목적"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-CONTRACT-40",
+      "round": 48,
+      "subject": "보험계약법",
+      "subjectCode": "CONTRACT",
+      "questionNo": 40,
+      "questionText": "[합성 데모] 계약 체결 후 위험이 현저하게 증가한 경우 통지의무를 두는 취지는?",
+      "presentation": {
+        "prompt": "[합성 데모] 계약 체결 후 위험이 현저하게 증가한 경우 통지의무를 두는 취지는?",
+        "context": {
+          "label": "사례",
+          "text": "창고의 사용 목적이 일반 보관에서 인화성 물질 보관으로 바뀌었다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험자가 변경된 위험을 평가하고 계약 관계를 조정할 기회를 갖게 하기 위해서",
+        "②": "계약자가 사고를 숨길 수 있게 하기 위해서",
+        "③": "보험기간을 자동으로 무기한 연장하기 위해서",
+        "④": "보험증권을 광고물로 바꾸기 위해서"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "계약 전후 의무",
+      "concept": "위험의 현저한 변경·증가와 통지의무",
+      "keywords": [
+        "통지의무",
+        "위험 증가",
+        "계약 조정"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-CONTRACT-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-01",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 1,
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "presentation": {
+        "prompt": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사 사무실의 위치",
+        "②": "보험료와 손해를 정한 비율로 나누는지, 일정 손해수준을 넘는 부분을 부담하는지",
+        "③": "계약서에 사용한 글꼴",
+        "④": "보험계약자의 직업 이름"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-02",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 2,
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "1만원",
+        "②": "10만원",
+        "③": "100만원",
+        "④": "250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-03",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 3,
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "동일한 재산을 대상으로 두 계약안을 비교한다. A안은 담보하는 사고를 목록으로 정하고, B안은 면책사유를 제외한 우연한 직접손해를 넓게 다룬다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "A안은 열거위험 방식, B안은 포괄위험 방식으로 볼 수 있다.",
+        "②": "A안과 B안 모두 생명보험 방식이다.",
+        "③": "A안은 포괄위험 방식, B안은 열거위험 방식이다.",
+        "④": "두 방식은 담보범위 확인 방법에 차이가 없다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-04",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 4,
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "presentation": {
+        "prompt": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+        "context": null,
+        "dataTable": {
+          "label": "평가 자료",
+          "columns": [
+            "재조달비용",
+            "감가액"
+          ],
+          "rows": [
+            [
+              "1,000만원",
+              "250만원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "250만원",
+        "②": "750만원",
+        "③": "1,000만원",
+        "④": "1,250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-05",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 5,
+      "questionText": "[합성 데모] 순수위험과 투기위험을 구분한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 순수위험과 투기위험을 구분한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "순수위험은 손실 또는 무손실 가능성이 있고, 투기위험은 이익 가능성도 포함한다.",
+        "②": "순수위험에는 언제나 큰 이익이 발생한다.",
+        "③": "투기위험은 손실 가능성이 전혀 없다.",
+        "④": "두 위험은 보험에서 완전히 같은 의미로 사용된다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험의 기초",
+      "concept": "순수위험·투기위험",
+      "keywords": [
+        "순수위험",
+        "투기위험",
+        "손실 가능성"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-06",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 6,
+      "questionText": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "누전으로 화재가 발생했고, 창고 안의 기름 묻은 천이 불길을 빠르게 키웠다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "화재는 손인이고 기름 묻은 천은 물리적 위태가 될 수 있다.",
+        "②": "화재와 기름 묻은 천 모두 보험료다.",
+        "③": "기름 묻은 천은 보험금이고 화재는 계약자다.",
+        "④": "손인과 위태는 구분할 필요가 없다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험의 기초",
+      "concept": "손인·위태",
+      "keywords": [
+        "손인",
+        "물리적 위태",
+        "화재"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-07",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 7,
+      "questionText": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "낡은 전선이 과열되기 쉽다.",
+        "②": "보험금을 받으려고 고의로 사고를 꾸민다.",
+        "③": "폭우로 하천 수위가 높아진다.",
+        "④": "건물 외벽이 바람에 약하다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "위험의 기초",
+      "concept": "도덕적 위태",
+      "keywords": [
+        "도덕적 위태",
+        "고의",
+        "보험사기"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-08",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 8,
+      "questionText": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+      "presentation": {
+        "prompt": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "위험집단이 커질수록 실제 손해 결과가 예상치에 가까워질 가능성을 높인다.",
+        "②": "개별 사고의 발생 시각을 정확히 맞힌다.",
+        "③": "모든 피보험자의 손해를 없앤다.",
+        "④": "보험료 계산에 통계가 필요 없게 한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험의 기본원리",
+      "concept": "대수의 법칙",
+      "keywords": [
+        "대수의 법칙",
+        "위험집단",
+        "예측 가능성"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-09",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 9,
+      "questionText": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "화재감지기를 설치해 손해 규모를 줄인다.",
+        "②": "위험한 공정을 폐지해 사고 가능성을 제거한다.",
+        "③": "보험계약을 통해 사고 손실의 재원을 마련한다.",
+        "④": "작업자 안전교육으로 사고 빈도를 낮춘다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "리스크 관리",
+      "concept": "위험재무기법",
+      "keywords": [
+        "위험재무",
+        "보험",
+        "위험전가"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-10",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 10,
+      "questionText": "[합성 데모] 역선택이 보험집단에 미칠 수 있는 영향은?",
+      "presentation": {
+        "prompt": "[합성 데모] 역선택이 보험집단에 미칠 수 있는 영향은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "위험이 높은 사람이 상대적으로 더 많이 가입하여 평균 손해비용이 상승할 수 있다.",
+        "②": "모든 가입자의 위험이 즉시 같아진다.",
+        "③": "보험사고가 법적으로 불가능해진다.",
+        "④": "보험료 수입과 손해비용이 모두 사라진다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "언더라이팅",
+      "concept": "역선택",
+      "keywords": [
+        "역선택",
+        "위험집단",
+        "정보 비대칭"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-11",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 11,
+      "questionText": "[합성 데모] 언더라이팅의 핵심 목적은?",
+      "presentation": {
+        "prompt": "[합성 데모] 언더라이팅의 핵심 목적은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "개별 위험을 평가하여 인수 여부와 조건을 정하는 것",
+        "②": "발생한 모든 사고를 형사사건으로 전환하는 것",
+        "③": "보험계약자의 재산을 매입하는 것",
+        "④": "손해사정 결과와 관계없이 보험금을 동일하게 지급하는 것"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "언더라이팅",
+      "concept": "언더라이팅·위험선택",
+      "keywords": [
+        "언더라이팅",
+        "위험선택",
+        "인수조건"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-12",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 12,
+      "questionText": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+      "presentation": {
+        "prompt": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+        "context": null,
+        "dataTable": {
+          "label": "계산 자료",
+          "columns": [
+            "발생손해액",
+            "경과보험료"
+          ],
+          "rows": [
+            [
+              "72억원",
+              "90억원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "62%",
+        "②": "72%",
+        "③": "80%",
+        "④": "125%"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험회계",
+      "concept": "손해율",
+      "keywords": [
+        "손해율",
+        "발생손해액",
+        "경과보험료"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-13",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 13,
+      "questionText": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+      "presentation": {
+        "prompt": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+        "context": null,
+        "dataTable": {
+          "label": "경영 지표",
+          "columns": [
+            "손해율",
+            "사업비율"
+          ],
+          "rows": [
+            [
+              "65%",
+              "28%"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "37%",
+        "②": "65%",
+        "③": "93%",
+        "④": "182%"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험경영",
+      "concept": "합산비율",
+      "keywords": [
+        "합산비율",
+        "손해율",
+        "사업비율"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-14",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 14,
+      "questionText": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "1만원",
+        "②": "10만원",
+        "③": "62만5천원",
+        "④": "250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "기대손해액",
+      "keywords": [
+        "사고빈도",
+        "평균손해액",
+        "순보험료"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-15",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 15,
+      "questionText": "[합성 데모] 자기부담금을 높일 때 일반적으로 기대되는 효과는?",
+      "presentation": {
+        "prompt": "[합성 데모] 자기부담금을 높일 때 일반적으로 기대되는 효과는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "소액 손해에 대한 보험자의 지급 부담이 줄어들 수 있다.",
+        "②": "모든 사고의 발생 가능성이 0이 된다.",
+        "③": "보험금액이 자동으로 무제한이 된다.",
+        "④": "보험계약자의 부담이 언제나 사라진다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "재물보험",
+      "concept": "공제조항·자기부담금",
+      "keywords": [
+        "자기부담금",
+        "소액 손해",
+        "위험 분담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-16",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 16,
+      "questionText": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "모든 위험에 무조건 같은 보험료를 부과하는 것",
+        "②": "위험의 차이가 합리적으로 보험료에 반영되도록 하는 것",
+        "③": "보험료 산정 근거를 사용하지 않는 것",
+        "④": "손해발생 가능성이 높은 계약의 보험료를 더 낮추는 것"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "보험요율 산정원칙",
+      "keywords": [
+        "보험요율",
+        "공평성",
+        "위험 반영"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-17",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 17,
+      "questionText": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+        "context": null,
+        "dataTable": {
+          "label": "계약 조건",
+          "columns": [
+            "출재비율",
+            "보상 대상 손해액"
+          ],
+          "rows": [
+            [
+              "30%",
+              "400만원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "70만원",
+        "②": "120만원",
+        "③": "280만원",
+        "④": "400만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "비례재보험특약",
+      "keywords": [
+        "비례재보험",
+        "출재비율",
+        "재보험자 부담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-18",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 18,
+      "questionText": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "50만원",
+        "②": "130만원",
+        "③": "180만원",
+        "④": "200만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "초과손해액재보험특약",
+      "keywords": [
+        "비비례재보험",
+        "보유액",
+        "재보험 한도"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-19",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 19,
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "presentation": {
+        "prompt": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사 사무실의 위치",
+        "②": "보험료와 손해를 정한 비율로 나누는지, 일정 손해수준을 넘는 부분을 부담하는지",
+        "③": "계약서에 사용한 글꼴",
+        "④": "보험계약자의 직업 이름"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-20",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 20,
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "1만원",
+        "②": "10만원",
+        "③": "100만원",
+        "④": "250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-21",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 21,
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "동일한 재산을 대상으로 두 계약안을 비교한다. A안은 담보하는 사고를 목록으로 정하고, B안은 면책사유를 제외한 우연한 직접손해를 넓게 다룬다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "A안은 열거위험 방식, B안은 포괄위험 방식으로 볼 수 있다.",
+        "②": "A안과 B안 모두 생명보험 방식이다.",
+        "③": "A안은 포괄위험 방식, B안은 열거위험 방식이다.",
+        "④": "두 방식은 담보범위 확인 방법에 차이가 없다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-22",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 22,
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "presentation": {
+        "prompt": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+        "context": null,
+        "dataTable": {
+          "label": "평가 자료",
+          "columns": [
+            "재조달비용",
+            "감가액"
+          ],
+          "rows": [
+            [
+              "1,000만원",
+              "250만원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "250만원",
+        "②": "750만원",
+        "③": "1,000만원",
+        "④": "1,250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-23",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 23,
+      "questionText": "[합성 데모] 순수위험과 투기위험을 구분한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 순수위험과 투기위험을 구분한 설명으로 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "순수위험은 손실 또는 무손실 가능성이 있고, 투기위험은 이익 가능성도 포함한다.",
+        "②": "순수위험에는 언제나 큰 이익이 발생한다.",
+        "③": "투기위험은 손실 가능성이 전혀 없다.",
+        "④": "두 위험은 보험에서 완전히 같은 의미로 사용된다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험의 기초",
+      "concept": "순수위험·투기위험",
+      "keywords": [
+        "순수위험",
+        "투기위험",
+        "손실 가능성"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-24",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 24,
+      "questionText": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 손인과 위태의 관계를 바르게 설명한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "누전으로 화재가 발생했고, 창고 안의 기름 묻은 천이 불길을 빠르게 키웠다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "화재는 손인이고 기름 묻은 천은 물리적 위태가 될 수 있다.",
+        "②": "화재와 기름 묻은 천 모두 보험료다.",
+        "③": "기름 묻은 천은 보험금이고 화재는 계약자다.",
+        "④": "손인과 위태는 구분할 필요가 없다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험의 기초",
+      "concept": "손인·위태",
+      "keywords": [
+        "손인",
+        "물리적 위태",
+        "화재"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-25",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 25,
+      "questionText": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 도덕적 위태의 사례로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "낡은 전선이 과열되기 쉽다.",
+        "②": "보험금을 받으려고 고의로 사고를 꾸민다.",
+        "③": "폭우로 하천 수위가 높아진다.",
+        "④": "건물 외벽이 바람에 약하다."
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "위험의 기초",
+      "concept": "도덕적 위태",
+      "keywords": [
+        "도덕적 위태",
+        "고의",
+        "보험사기"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-26",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 26,
+      "questionText": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+      "presentation": {
+        "prompt": "[합성 데모] 대수의 법칙이 보험 운영에 기여하는 방식은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "위험집단이 커질수록 실제 손해 결과가 예상치에 가까워질 가능성을 높인다.",
+        "②": "개별 사고의 발생 시각을 정확히 맞힌다.",
+        "③": "모든 피보험자의 손해를 없앤다.",
+        "④": "보험료 계산에 통계가 필요 없게 한다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "보험의 기본원리",
+      "concept": "대수의 법칙",
+      "keywords": [
+        "대수의 법칙",
+        "위험집단",
+        "예측 가능성"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-27",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 27,
+      "questionText": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 위험관리 기법 중 위험재무에 해당하는 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "화재감지기를 설치해 손해 규모를 줄인다.",
+        "②": "위험한 공정을 폐지해 사고 가능성을 제거한다.",
+        "③": "보험계약을 통해 사고 손실의 재원을 마련한다.",
+        "④": "작업자 안전교육으로 사고 빈도를 낮춘다."
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "리스크 관리",
+      "concept": "위험재무기법",
+      "keywords": [
+        "위험재무",
+        "보험",
+        "위험전가"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-28",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 28,
+      "questionText": "[합성 데모] 역선택이 보험집단에 미칠 수 있는 영향은?",
+      "presentation": {
+        "prompt": "[합성 데모] 역선택이 보험집단에 미칠 수 있는 영향은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "위험이 높은 사람이 상대적으로 더 많이 가입하여 평균 손해비용이 상승할 수 있다.",
+        "②": "모든 가입자의 위험이 즉시 같아진다.",
+        "③": "보험사고가 법적으로 불가능해진다.",
+        "④": "보험료 수입과 손해비용이 모두 사라진다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "언더라이팅",
+      "concept": "역선택",
+      "keywords": [
+        "역선택",
+        "위험집단",
+        "정보 비대칭"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P1-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-29",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 29,
+      "questionText": "[합성 데모] 언더라이팅의 핵심 목적은?",
+      "presentation": {
+        "prompt": "[합성 데모] 언더라이팅의 핵심 목적은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "개별 위험을 평가하여 인수 여부와 조건을 정하는 것",
+        "②": "발생한 모든 사고를 형사사건으로 전환하는 것",
+        "③": "보험계약자의 재산을 매입하는 것",
+        "④": "손해사정 결과와 관계없이 보험금을 동일하게 지급하는 것"
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "언더라이팅",
+      "concept": "언더라이팅·위험선택",
+      "keywords": [
+        "언더라이팅",
+        "위험선택",
+        "인수조건"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-30",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 30,
+      "questionText": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+      "presentation": {
+        "prompt": "[합성 데모] 발생손해액이 72억원이고 경과보험료가 90억원일 때 손해율은?",
+        "context": null,
+        "dataTable": {
+          "label": "계산 자료",
+          "columns": [
+            "발생손해액",
+            "경과보험료"
+          ],
+          "rows": [
+            [
+              "72억원",
+              "90억원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "62%",
+        "②": "72%",
+        "③": "80%",
+        "④": "125%"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험회계",
+      "concept": "손해율",
+      "keywords": [
+        "손해율",
+        "발생손해액",
+        "경과보험료"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-31",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 31,
+      "questionText": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+      "presentation": {
+        "prompt": "[합성 데모] 손해율이 65%이고 사업비율이 28%인 보험회사의 합산비율은?",
+        "context": null,
+        "dataTable": {
+          "label": "경영 지표",
+          "columns": [
+            "손해율",
+            "사업비율"
+          ],
+          "rows": [
+            [
+              "65%",
+              "28%"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "37%",
+        "②": "65%",
+        "③": "93%",
+        "④": "182%"
+      },
+      "answer": "③",
+      "acceptedAnswers": [
+        "③"
+      ],
+      "domain": "보험경영",
+      "concept": "합산비율",
+      "keywords": [
+        "합산비율",
+        "손해율",
+        "사업비율"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-32",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 32,
+      "questionText": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 사고 빈도가 0.04이고 사고당 평균 손해액이 250만원일 때 위험 1단위당 기대손해액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "1만원",
+        "②": "10만원",
+        "③": "62만5천원",
+        "④": "250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "기대손해액",
+      "keywords": [
+        "사고빈도",
+        "평균손해액",
+        "순보험료"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-33",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 33,
+      "questionText": "[합성 데모] 자기부담금을 높일 때 일반적으로 기대되는 효과는?",
+      "presentation": {
+        "prompt": "[합성 데모] 자기부담금을 높일 때 일반적으로 기대되는 효과는?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "소액 손해에 대한 보험자의 지급 부담이 줄어들 수 있다.",
+        "②": "모든 사고의 발생 가능성이 0이 된다.",
+        "③": "보험금액이 자동으로 무제한이 된다.",
+        "④": "보험계약자의 부담이 언제나 사라진다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "재물보험",
+      "concept": "공제조항·자기부담금",
+      "keywords": [
+        "자기부담금",
+        "소액 손해",
+        "위험 분담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-34",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 34,
+      "questionText": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 보험요율 산정에서 공평성의 의미로 가장 적절한 것은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "모든 위험에 무조건 같은 보험료를 부과하는 것",
+        "②": "위험의 차이가 합리적으로 보험료에 반영되도록 하는 것",
+        "③": "보험료 산정 근거를 사용하지 않는 것",
+        "④": "손해발생 가능성이 높은 계약의 보험료를 더 낮추는 것"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "보험요율 산정원칙",
+      "keywords": [
+        "보험요율",
+        "공평성",
+        "위험 반영"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P2-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-35",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 35,
+      "questionText": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 원수보험자가 보험금의 30%를 재보험자에게 비례 출재했다. 보상 대상 손해액이 400만원이면 재보험자 부담액은?",
+        "context": null,
+        "dataTable": {
+          "label": "계약 조건",
+          "columns": [
+            "출재비율",
+            "보상 대상 손해액"
+          ],
+          "rows": [
+            [
+              "30%",
+              "400만원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "70만원",
+        "②": "120만원",
+        "③": "280만원",
+        "④": "400만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "비례재보험특약",
+      "keywords": [
+        "비례재보험",
+        "출재비율",
+        "재보험자 부담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-01",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-36",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 36,
+      "questionText": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 사고당 보유액 50만원, 재보험자 한도 200만원인 초과손해액 재보험에서 손해액이 180만원이면 재보험자 부담액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "50만원",
+        "②": "130만원",
+        "③": "180만원",
+        "④": "200만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "초과손해액재보험특약",
+      "keywords": [
+        "비비례재보험",
+        "보유액",
+        "재보험 한도"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-02",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-37",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 37,
+      "questionText": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+      "presentation": {
+        "prompt": "[합성 데모] 비례재보험과 비비례재보험을 구분하는 핵심 기준은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "보험회사 사무실의 위치",
+        "②": "보험료와 손해를 정한 비율로 나누는지, 일정 손해수준을 넘는 부분을 부담하는지",
+        "③": "계약서에 사용한 글꼴",
+        "④": "보험계약자의 직업 이름"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재보험",
+      "concept": "비례·비비례재보험",
+      "keywords": [
+        "비례재보험",
+        "비비례재보험",
+        "손해 분담"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-03",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-38",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 38,
+      "questionText": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+      "presentation": {
+        "prompt": "[합성 데모] 1년 동안 500만원의 손해가 발생할 확률이 2%라면 단순 기대손해액은?",
+        "context": null,
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "1만원",
+        "②": "10만원",
+        "③": "100만원",
+        "④": "250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "보험요율·통계",
+      "concept": "확률변수의 기대값",
+      "keywords": [
+        "확률",
+        "기대값",
+        "기대손해액"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-04",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-39",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 39,
+      "questionText": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+      "presentation": {
+        "prompt": "[합성 데모] 열거위험담보와 포괄위험담보를 비교한 설명으로 적절한 것은?",
+        "context": {
+          "label": "사례",
+          "text": "동일한 재산을 대상으로 두 계약안을 비교한다. A안은 담보하는 사고를 목록으로 정하고, B안은 면책사유를 제외한 우연한 직접손해를 넓게 다룬다."
+        },
+        "dataTable": null,
+        "statements": [],
+        "structure": "context-only"
+      },
+      "choices": {
+        "①": "A안은 열거위험 방식, B안은 포괄위험 방식으로 볼 수 있다.",
+        "②": "A안과 B안 모두 생명보험 방식이다.",
+        "③": "A안은 포괄위험 방식, B안은 열거위험 방식이다.",
+        "④": "두 방식은 담보범위 확인 방법에 차이가 없다."
+      },
+      "answer": "①",
+      "acceptedAnswers": [
+        "①"
+      ],
+      "domain": "위험담보방식",
+      "concept": "열거위험담보·포괄위험담보",
+      "keywords": [
+        "열거위험",
+        "포괄위험",
+        "담보범위"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-05",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    },
+    {
+      "id": "48-THEORY-40",
+      "round": 48,
+      "subject": "손해사정이론",
+      "subjectCode": "THEORY",
+      "questionNo": 40,
+      "questionText": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+      "presentation": {
+        "prompt": "[합성 데모] 재산의 재조달비용이 1,000만원이고 감가액이 250만원일 때 단순 계산한 실제현금가치는?",
+        "context": null,
+        "dataTable": {
+          "label": "평가 자료",
+          "columns": [
+            "재조달비용",
+            "감가액"
+          ],
+          "rows": [
+            [
+              "1,000만원",
+              "250만원"
+            ]
+          ]
+        },
+        "statements": [],
+        "structure": "context-data"
+      },
+      "choices": {
+        "①": "250만원",
+        "②": "750만원",
+        "③": "1,000만원",
+        "④": "1,250만원"
+      },
+      "answer": "②",
+      "acceptedAnswers": [
+        "②"
+      ],
+      "domain": "재물보험",
+      "concept": "실제현금가치",
+      "keywords": [
+        "재조달비용",
+        "감가",
+        "실제현금가치"
+      ],
+      "trapType": "합성 예시 선택지 비교",
+      "numericType": "없음",
+      "questionForm": "합성 연습문항",
+      "sourceFile": "app/data/public-practice-questions.json",
+      "sourceTemplateId": "P3-THEORY-06",
+      "classificationSource": "독립 제작 연습문항의 공개 메타데이터",
+      "contentMode": "synthetic_demo",
+      "examStage": "합성 1차 데모",
+      "calculationPatternId": "",
+      "reviewStatus": "합성 예시",
+      "tagConfidence": "데모",
+      "sourceNote": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다."
+    }
+  ],
+  "calculationPatterns": [],
+  "qualityIssues": []
+}

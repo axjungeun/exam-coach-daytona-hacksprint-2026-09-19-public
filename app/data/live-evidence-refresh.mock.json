@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "status": "mock-only",
+    "containsExternalFacts": false,
+    "containsProtectedQuestionText": false
+  },
+  "query": {
+    "questionId": "demo-reviewed-choice-001",
+    "subject": "demo subject",
+    "concept": "demo concept distinction",
+    "searchTerms": ["official rule", "concept distinction"],
+    "allowedDomains": ["official.example.invalid"],
+    "knownSourceUrls": ["https://official.example.invalid/source/001"]
+  },
+  "documents": [
+    {
+      "id": "mock-official-001",
+      "url": "https://official.example.invalid/source/001",
+      "title": "Mock official evidence",
+      "text": "This fixture validates the evidence contract and does not assert an external fact.",
+      "sourceKind": "official",
+      "retrievedAt": "2026-08-26T00:00:00.000Z",
+      "score": 1
+    }
+  ],
+  "assessments": [
+    {
+      "scenario": "evidence-consistent",
+      "decision": "maintain",
+      "diagnosis": "Keep the reviewed confusion code.",
+      "reason": "The mock evidence is consistent with the reviewed rule.",
+      "evidenceIds": ["mock-official-001"],
+      "learnerAction": "Review the verified distinction.",
+      "instructorAction": "Keep the current reinforcement action.",
+      "confidence": 0.9,
+      "model": "mock-nvidia-open-model",
+      "mode": "mock"
+    },
+    {
+      "scenario": "evidence-conflict",
+      "decision": "revise",
+      "diagnosis": "Revise the previous confusion code.",
+      "reason": "The mock evidence conflicts with the previous rule.",
+      "evidenceIds": ["mock-official-001"],
+      "learnerAction": "Study the revised distinction before retrying.",
+      "instructorAction": "Review the linked explanation for an update.",
+      "confidence": 0.8,
+      "model": "mock-nvidia-open-model",
+      "mode": "mock"
+    },
+    {
+      "scenario": "insufficient-evidence",
+      "decision": "abstain",
+      "diagnosis": "Do not change the diagnosis yet.",
+      "reason": "No sufficient allowed evidence is available.",
+      "evidenceIds": [],
+      "learnerAction": "Continue with the reviewed local explanation.",
+      "instructorAction": "Request evidence review before reinforcement.",
+      "confidence": 0.2,
+      "model": "mock-nvidia-open-model",
+      "mode": "mock"
+    }
+  ]
+}

@@ -1,0 +1,2178 @@
+{
+  "metadata": {
+    "contentMode": "synthetic_demo",
+    "rightsStatus": "independently_authored_templates",
+    "generatedDate": "2026-09-19",
+    "notice": "합성 데모 데이터입니다. 54개의 독립 제작 연습문항을 반복 배치한 1,200개 레코드이며, 공식 기출·개인 답안·실제 학습 이력이 아닙니다. 회차 40~49는 호환성용 가상 슬롯입니다.",
+    "distinctTemplateCount": 54,
+    "containsPersonalRecords": false,
+    "containsOfficialExamQuestions": false,
+    "containsTextbookExcerpts": false,
+    "title": "합성 선택지 비교 예시",
+    "method": "공개 템플릿 정답과 선택 비교",
+    "scope": "실제 오개념 판단이나 강사 검수가 아님",
+    "questionCount": 40
+  },
+  "questions": {
+    "48-THEORY-01": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-02": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-03": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-04": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-05": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "순수위험",
+            "투기위험",
+            "손실 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "순수위험",
+            "투기위험",
+            "손실 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "순수위험",
+            "투기위험",
+            "손실 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-06": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "손인",
+            "물리적 위태",
+            "화재"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "손인",
+            "물리적 위태",
+            "화재"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "손인",
+            "물리적 위태",
+            "화재"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-07": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "도덕적 위태",
+            "고의",
+            "보험사기"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "도덕적 위태",
+            "고의",
+            "보험사기"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "도덕적 위태",
+            "고의",
+            "보험사기"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-08": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "대수의 법칙",
+            "위험집단",
+            "예측 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "대수의 법칙",
+            "위험집단",
+            "예측 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "대수의 법칙",
+            "위험집단",
+            "예측 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-09": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ③입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "위험재무",
+            "보험",
+            "위험전가"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "위험재무",
+            "보험",
+            "위험전가"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "위험재무",
+            "보험",
+            "위험전가"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-10": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "역선택",
+            "위험집단",
+            "정보 비대칭"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "역선택",
+            "위험집단",
+            "정보 비대칭"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "역선택",
+            "위험집단",
+            "정보 비대칭"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-11": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "언더라이팅",
+            "위험선택",
+            "인수조건"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "언더라이팅",
+            "위험선택",
+            "인수조건"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "언더라이팅",
+            "위험선택",
+            "인수조건"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-12": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ③입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "손해율",
+            "발생손해액",
+            "경과보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "손해율",
+            "발생손해액",
+            "경과보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "손해율",
+            "발생손해액",
+            "경과보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-13": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ③입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "합산비율",
+            "손해율",
+            "사업비율"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "합산비율",
+            "손해율",
+            "사업비율"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "합산비율",
+            "손해율",
+            "사업비율"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-14": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "사고빈도",
+            "평균손해액",
+            "순보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "사고빈도",
+            "평균손해액",
+            "순보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "사고빈도",
+            "평균손해액",
+            "순보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-15": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "자기부담금",
+            "소액 손해",
+            "위험 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "자기부담금",
+            "소액 손해",
+            "위험 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "자기부담금",
+            "소액 손해",
+            "위험 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-16": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "보험요율",
+            "공평성",
+            "위험 반영"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "보험요율",
+            "공평성",
+            "위험 반영"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "보험요율",
+            "공평성",
+            "위험 반영"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-17": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비례재보험",
+            "출재비율",
+            "재보험자 부담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비례재보험",
+            "출재비율",
+            "재보험자 부담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비례재보험",
+            "출재비율",
+            "재보험자 부담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-18": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비비례재보험",
+            "보유액",
+            "재보험 한도"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비비례재보험",
+            "보유액",
+            "재보험 한도"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비비례재보험",
+            "보유액",
+            "재보험 한도"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-19": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-20": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-21": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-22": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-23": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "순수위험",
+            "투기위험",
+            "손실 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "순수위험",
+            "투기위험",
+            "손실 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "순수위험",
+            "투기위험",
+            "손실 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-24": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "손인",
+            "물리적 위태",
+            "화재"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "손인",
+            "물리적 위태",
+            "화재"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "손인",
+            "물리적 위태",
+            "화재"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-25": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "도덕적 위태",
+            "고의",
+            "보험사기"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "도덕적 위태",
+            "고의",
+            "보험사기"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "도덕적 위태",
+            "고의",
+            "보험사기"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-26": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "대수의 법칙",
+            "위험집단",
+            "예측 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "대수의 법칙",
+            "위험집단",
+            "예측 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "대수의 법칙",
+            "위험집단",
+            "예측 가능성"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-27": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ③입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "위험재무",
+            "보험",
+            "위험전가"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "위험재무",
+            "보험",
+            "위험전가"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "위험재무",
+            "보험",
+            "위험전가"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-28": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "역선택",
+            "위험집단",
+            "정보 비대칭"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "역선택",
+            "위험집단",
+            "정보 비대칭"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "역선택",
+            "위험집단",
+            "정보 비대칭"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-29": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "언더라이팅",
+            "위험선택",
+            "인수조건"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "언더라이팅",
+            "위험선택",
+            "인수조건"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "언더라이팅",
+            "위험선택",
+            "인수조건"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-30": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ③입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "손해율",
+            "발생손해액",
+            "경과보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "손해율",
+            "발생손해액",
+            "경과보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "손해율",
+            "발생손해액",
+            "경과보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-31": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ③입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "합산비율",
+            "손해율",
+            "사업비율"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "합산비율",
+            "손해율",
+            "사업비율"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ③를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "합산비율",
+            "손해율",
+            "사업비율"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-32": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "사고빈도",
+            "평균손해액",
+            "순보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "사고빈도",
+            "평균손해액",
+            "순보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "사고빈도",
+            "평균손해액",
+            "순보험료"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-33": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "자기부담금",
+            "소액 손해",
+            "위험 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "자기부담금",
+            "소액 손해",
+            "위험 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "자기부담금",
+            "소액 손해",
+            "위험 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-34": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "보험요율",
+            "공평성",
+            "위험 반영"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "보험요율",
+            "공평성",
+            "위험 반영"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "보험요율",
+            "공평성",
+            "위험 반영"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-35": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비례재보험",
+            "출재비율",
+            "재보험자 부담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비례재보험",
+            "출재비율",
+            "재보험자 부담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비례재보험",
+            "출재비율",
+            "재보험자 부담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-36": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비비례재보험",
+            "보유액",
+            "재보험 한도"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비비례재보험",
+            "보유액",
+            "재보험 한도"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비비례재보험",
+            "보유액",
+            "재보험 한도"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-37": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "비례재보험",
+            "비비례재보험",
+            "손해 분담"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-38": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "확률",
+            "기대값",
+            "기대손해액"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-39": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ①입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "②": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ②와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ②",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ①를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "열거위험",
+            "포괄위험",
+            "담보범위"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    },
+    "48-THEORY-40": {
+      "axis": "합성 선택지 비교",
+      "correctPrinciple": "이 공개 연습문항의 설정된 답은 ②입니다. 실제 학습자 진단이 아닌 화면 흐름 예시입니다.",
+      "choices": {
+        "①": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ①와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ①",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "③": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ③와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ③",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        },
+        "④": {
+          "diagnosis": "합성 예시: 설정된 정답과 선택이 다름",
+          "whyWrong": "선택한 ④와 설정된 정답 ②를 비교하는 데모입니다.",
+          "misconception": "선택 기록만으로 학습자의 오개념을 확정하지 않습니다.",
+          "selectedInterpretation": "합성 선택 ④",
+          "focusTerms": [
+            "재조달비용",
+            "감가",
+            "실제현금가치"
+          ],
+          "reasoningSteps": [
+            "문항 조건 확인",
+            "선택지의 차이 비교",
+            "필요한 개념을 강사와 검토"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "id": "loss-adjuster-first-exam-ko-v1",
+    "title": "공개 연습문항 표준 어휘",
+    "level": "first_exam",
+    "referenceScope": "app/data/public-practice-questions.json의 독립 제작 연습문항",
+    "displayRule": "표준 용어만 표시하며, 강사별 표현이나 비공개 자료를 사용하지 않는다."
+  },
+  "subjects": {
+    "BIZ": [
+      {
+        "canonical": "보험업의 허가",
+        "aliases": [
+          "보험업 허가"
+        ]
+      },
+      {
+        "canonical": "보험중개사",
+        "aliases": []
+      },
+      {
+        "canonical": "특별이익의 제공 금지",
+        "aliases": [
+          "특별이익 제공 금지"
+        ]
+      },
+      {
+        "canonical": "설명의무",
+        "aliases": []
+      },
+      {
+        "canonical": "고객응대직원에 대한 보호조치",
+        "aliases": [
+          "고객응대직원 보호"
+        ]
+      },
+      {
+        "canonical": "기초서류",
+        "aliases": []
+      },
+      {
+        "canonical": "재무건전성 기준",
+        "aliases": [
+          "재무건전성"
+        ]
+      },
+      {
+        "canonical": "책임준비금",
+        "aliases": []
+      },
+      {
+        "canonical": "보험상품 공시",
+        "aliases": []
+      },
+      {
+        "canonical": "보험계리사·손해사정사",
+        "aliases": []
+      },
+      {
+        "canonical": "자산운용의 제한",
+        "aliases": [
+          "자산운용 규제"
+        ]
+      },
+      {
+        "canonical": "보험계약의 이전",
+        "aliases": [
+          "보험계약 이전"
+        ]
+      },
+      {
+        "canonical": "보험대리점·보험중개사",
+        "aliases": [
+          "대리점과 중개사"
+        ]
+      },
+      {
+        "canonical": "보험상품 광고",
+        "aliases": [
+          "보험광고 규제"
+        ]
+      },
+      {
+        "canonical": "겸영업무·부수업무",
+        "aliases": [
+          "겸영·부수업무"
+        ]
+      },
+      {
+        "canonical": "검사·감독",
+        "aliases": [
+          "검사와 감독"
+        ]
+      },
+      {
+        "canonical": "보험관계단체",
+        "aliases": [
+          "보험관계단체의 기능"
+        ]
+      },
+      {
+        "canonical": "보험개발원",
+        "aliases": []
+      }
+    ],
+    "CONTRACT": [
+      {
+        "canonical": "고지의무",
+        "aliases": []
+      },
+      {
+        "canonical": "보험자의 책임개시",
+        "aliases": [
+          "책임 개시"
+        ]
+      },
+      {
+        "canonical": "보험증권",
+        "aliases": []
+      },
+      {
+        "canonical": "보험수익자",
+        "aliases": []
+      },
+      {
+        "canonical": "실손보상의 원칙",
+        "aliases": [
+          "실손보상"
+        ]
+      },
+      {
+        "canonical": "중복보험",
+        "aliases": []
+      },
+      {
+        "canonical": "보험금청구권의 소멸시효",
+        "aliases": [
+          "보험금청구권 소멸시효"
+        ]
+      },
+      {
+        "canonical": "위험의 현저한 변경·증가와 통지의무",
+        "aliases": [
+          "위험증가 통지의무"
+        ]
+      },
+      {
+        "canonical": "타인을 위한 보험계약",
+        "aliases": [
+          "타인을 위한 보험"
+        ]
+      },
+      {
+        "canonical": "보험자대위",
+        "aliases": []
+      },
+      {
+        "canonical": "피보험이익",
+        "aliases": []
+      },
+      {
+        "canonical": "손해방지의무",
+        "aliases": []
+      },
+      {
+        "canonical": "피해자의 직접청구권",
+        "aliases": [
+          "책임보험 직접청구권"
+        ]
+      },
+      {
+        "canonical": "보험기간·보험료 납입기간",
+        "aliases": [
+          "보험기간과 납입기간"
+        ]
+      },
+      {
+        "canonical": "초과보험",
+        "aliases": []
+      },
+      {
+        "canonical": "화재보험자의 보상책임",
+        "aliases": [
+          "화재보험 보상요건"
+        ]
+      },
+      {
+        "canonical": "타인의 생명보험계약",
+        "aliases": [
+          "타인의 생명보험"
+        ]
+      },
+      {
+        "canonical": "상해보험사고의 우연성",
+        "aliases": [
+          "상해의 우연성"
+        ]
+      }
+    ],
+    "THEORY": [
+      {
+        "canonical": "순수위험·투기위험",
+        "aliases": [
+          "순수위험과 투기위험"
+        ]
+      },
+      {
+        "canonical": "도덕적 위태",
+        "aliases": []
+      },
+      {
+        "canonical": "손인·위태",
+        "aliases": [
+          "손인과 위태"
+        ]
+      },
+      {
+        "canonical": "대수의 법칙",
+        "aliases": []
+      },
+      {
+        "canonical": "언더라이팅·위험선택",
+        "aliases": [
+          "위험선택"
+        ]
+      },
+      {
+        "canonical": "역선택",
+        "aliases": []
+      },
+      {
+        "canonical": "위험재무기법",
+        "aliases": [
+          "위험재무"
+        ]
+      },
+      {
+        "canonical": "보험요율 산정원칙",
+        "aliases": [
+          "보험요율의 공평성"
+        ]
+      },
+      {
+        "canonical": "기대손해액",
+        "aliases": []
+      },
+      {
+        "canonical": "합산비율",
+        "aliases": []
+      },
+      {
+        "canonical": "비례재보험특약",
+        "aliases": [
+          "비례재보험"
+        ]
+      },
+      {
+        "canonical": "초과손해액재보험특약",
+        "aliases": [
+          "초과손해액 재보험"
+        ]
+      },
+      {
+        "canonical": "비례·비비례재보험",
+        "aliases": [
+          "재보험 방식 구분"
+        ]
+      },
+      {
+        "canonical": "실제현금가치",
+        "aliases": []
+      },
+      {
+        "canonical": "공제조항·자기부담금",
+        "aliases": [
+          "자기부담금"
+        ]
+      },
+      {
+        "canonical": "열거위험담보·포괄위험담보",
+        "aliases": [
+          "열거·포괄위험"
+        ]
+      },
+      {
+        "canonical": "손해율",
+        "aliases": []
+      },
+      {
+        "canonical": "확률변수의 기대값",
+        "aliases": [
+          "기대값"
+        ]
+      }
+    ]
+  },
+  "forbiddenDisplayPhrases": [
+    "쉽게 말해",
+    "한마디로",
+    "그냥",
+    "대충",
+    "무조건 외우기"
+  ]
+}
