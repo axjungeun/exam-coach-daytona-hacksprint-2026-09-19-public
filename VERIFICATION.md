@@ -25,3 +25,7 @@ The PDF uses historical aggregate screenshots and explains that historical recor
 Tags: #execute #update #record #verify. Request: provide a public project repository, final video, slide deck below 10 MB, English documentation, and clear sponsor use. Public assets use a fresh Git history. Previous private originals and earlier Agent Forge releases are preserved.
 
 `UPLOAD_MANIFEST.json` records the SHA-256 and size of each published file, excluding the manifest itself.
+
+## English slide deck added — 2026-09-19 15:36 KST
+
+User requested the English PDF in the submission repository. Added `slides/Exam-Coach-Project-Slide-Deck-EN-2026-09-19.pdf` and links in both READMEs. Six pages, 297,309 bytes, SHA-256 `be43682888145891964a8c415d2f772bf1faf099f9f708dbe20a1e5f24df0e50`. All page renders, text fit and independent Korean-to-English content checks passed before upload. Original Korean UI screenshots are preserved; the Nosana English response is labeled as a translation. No private paths or credential literals were found in extracted text or metadata. This addition changes documentation and a PDF only; the earlier application test results are unchanged.

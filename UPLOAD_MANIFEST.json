@@ -1,6 +1,6 @@
 {
-  "generatedAtKst": "2026-09-19 15:05 KST",
-  "scope": "Public synthetic app, historical sponsor receipts, public demo excerpt, and slide deck",
+  "generatedAtKst": "2026-09-19 15:36 KST",
+  "scope": "Public synthetic app, historical sponsor receipts, public demo excerpt, and Korean/English slide decks",
   "files": [
     {
       "path": ".env.example",
@@ -24,13 +24,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 4702,
-      "sha256": "d07f36be5e3ddcdf1c1e5858124d25ea1b3bd4be7a14961db055a5d458781e5a"
+      "bytes": 4922,
+      "sha256": "cd984d9965704dc7c5ac6409baed1323c588174d3fe383dbe488a54cec111697"
     },
     {
       "path": "README.md",
-      "bytes": 5331,
-      "sha256": "274654db87a02ece2b22d5ca033c7e1923ce87ad56819abb63ab76cca2e8067c"
+      "bytes": 9769,
+      "sha256": "110f4810f0ef77d9e6d466f4027e27c12e70b80a1084326c1131bef531d6f2c5"
     },
     {
       "path": "SOURCE_NOTICE.md",
@@ -39,8 +39,8 @@
     },
     {
       "path": "VERIFICATION.md",
-      "bytes": 2880,
-      "sha256": "2ff23f1a70ea362429d134899024c69771e4d0acb26b6e0458771ea953543e7b"
+      "bytes": 3575,
+      "sha256": "573c47d6ed41038a9ed4a01f355e68502a3bda4dfa05790e5c9366015fedc974"
     },
     {
       "path": "app/api/attempts/route.ts",
@@ -298,14 +298,14 @@
       "sha256": "7c1531211f562237ff55e803db9e7b93f2e12c7ea66e0cff7f6d0e26900c56cb"
     },
     {
-      "path": "drizzle/meta/_journal.json",
-      "bytes": 61,
-      "sha256": "90cb374e093894d0efce6f1830d873a42aadd8ba49d2f024495e5cb2e1c8c303"
-    },
-    {
       "path": "drizzle.config.ts",
       "bytes": 148,
       "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "bytes": 61,
+      "sha256": "90cb374e093894d0efce6f1830d873a42aadd8ba49d2f024495e5cb2e1c8c303"
     },
     {
       "path": "eslint.config.mjs",
@@ -471,6 +471,11 @@
       "path": "slides/Exam-Coach-Project-Slide-Deck-2026-09-19.pdf",
       "bytes": 376697,
       "sha256": "748bcde19c4cde880bdeb71936f879bdf276a3c67356aaadfa056a0c4a91e7ab"
+    },
+    {
+      "path": "slides/Exam-Coach-Project-Slide-Deck-EN-2026-09-19.pdf",
+      "bytes": 297309,
+      "sha256": "be43682888145891964a8c415d2f772bf1faf099f9f708dbe20a1e5f24df0e50"
     },
     {
       "path": "study-worker/index.ts",

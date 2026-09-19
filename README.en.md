@@ -19,10 +19,11 @@ The receipts and video document successful external calls from the local working
 
 ## Presentation and demo
 
+- [Project slide deck — English, 6 slides, 0.30 MB](./slides/Exam-Coach-Project-Slide-Deck-EN-2026-09-19.pdf)
 - [Project slide deck — Korean, 6 slides, 0.38 MB](./slides/Exam-Coach-Project-Slide-Deck-2026-09-19.pdf)
 - [Public sponsor demo — approximately 55 seconds](./media/exam-coach-public-sponsor-demo-2026-09-19.mp4)
 
-The PDF is below the 10 MB submission limit. The video shows actual browser interaction: historical analytics, a Daytona run and its fresh receipt, then Nosana generation. It is an excerpt of the 78-second recording, excluding the opening question/material scene. Existing English narration is preserved without voice synthesis, cloning, speed changes, or pitch changes. The Nosana scene uses English on-screen descriptions only. Historical analytics in the recording differ from the synthetic public app fixtures.
+Both PDFs are below the 10 MB submission limit. The English deck preserves the original Korean UI screenshots and labels the translated Nosana response. The video shows actual browser interaction: historical analytics, a Daytona run and its fresh receipt, then Nosana generation. It is an excerpt of the 78-second recording, excluding the opening question/material scene. Existing English narration is preserved without voice synthesis, cloning, speed changes, or pitch changes. The Nosana scene uses English on-screen descriptions only. Historical analytics in the recording differ from the synthetic public app fixtures.
 
 ## Run locally
 

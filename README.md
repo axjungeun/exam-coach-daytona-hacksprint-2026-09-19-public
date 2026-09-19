@@ -14,6 +14,9 @@ Recorded live evidence · Daytona code · Nosana code
 The receipts and video document successful external calls from the local working app at 14:20 KST. Daytona checked the dataset used then, not this replacement public fixture. The public app starts as not-run; supply your own keys to produce fresh results. Structural validity does not prove semantic correctness or official grading. AI-generated suggestions require review.
 
 Presentation and demo
+
+- [Project slide deck — English, 6 slides, 0.30 MB](./slides/Exam-Coach-Project-Slide-Deck-EN-2026-09-19.pdf)
+
 Project slide deck — Korean, 6 slides, 0.38 MB
 Public sponsor demo — approximately 55 seconds
 The PDF is below the 10 MB submission limit. The video shows actual browser interaction: historical analytics, a Daytona run and its fresh receipt, then Nosana generation. It is an excerpt of the 78-second recording, excluding the opening question/material scene. Existing English narration is preserved without voice synthesis, cloning, speed changes, or pitch changes. The Nosana scene uses English on-screen descriptions only. Historical analytics in the recording differ from the synthetic public app fixtures.
@@ -70,6 +73,7 @@ Publishing this repository does not deploy a service or submit the event form.
 
 ## 제출 자료
 
+- [Project Slide Deck PDF — 영어 6장, 0.30 MB](./slides/Exam-Coach-Project-Slide-Deck-EN-2026-09-19.pdf)
 - [Project Slide Deck PDF — 한국어 6장, 0.38 MB](./slides/Exam-Coach-Project-Slide-Deck-2026-09-19.pdf)
 - [공개 스폰서 데모 — 약 55초, 본인 원음 + 영어 장면 설명](./media/exam-coach-public-sponsor-demo-2026-09-19.mp4)
 
